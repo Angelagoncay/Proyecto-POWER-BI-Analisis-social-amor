@@ -1,0 +1,609 @@
+gender,sexual_orientation,location_type,income_bracket,education_level,interest_tags,app_usage_time_min,app_usage_time_label,swipe_right_ratio,swipe_right_label,likes_received,mutual_matches,profile_pics_count,bio_length,message_sent_count,emoji_usage_rate,last_active_hour,swipe_time_of_day,match_outcome,age,height_cm,weight_kg,zodiac_sign,body_type,relationship_intent
+Prefer Not to Say,Gay,Urban,High,Bachelor’s,"Fitness, Politics, Traveling",52,Moderate,0.6,Optimistic,173,23,4,44,75,0.36,13,Early Morning,Mutual Match,56,149,40.6,Taurus,Curvy,Friends Only
+Male,Bisexual,Suburban,Upper-Middle,No Formal Education,"Languages, Fashion, Parenting",279,Extreme User,0.56,Optimistic,107,7,3,301,35,0.42,0,Morning,Chat Ignored,40,155,69.7,Leo,Plus Size,Hookups
+Non-binary,Pansexual,Suburban,Low,Master’s,"Movies, Reading, DIY",49,Moderate,0.41,Optimistic,91,27,2,309,33,0.41,1,After Midnight,Date Happened,30,185,96.9,Sagittarius,Curvy,Serious Relationship
+Genderfluid,Gay,Metro,Very Low,Postdoc,"Coding, Podcasts, History",185,Extreme User,0.32,Balanced,147,6,5,35,5,0.07,21,Morning,No Action,57,154,49.3,Taurus,Slim,Exploring
+Male,Bisexual,Urban,Middle,Bachelor’s,"Clubbing, Podcasts, Cars",83,High,0.32,Balanced,94,11,1,343,34,0.11,22,After Midnight,One-sided Like,24,149,40.0,Libra,Slim,Casual Dating
+Genderfluid,Lesbian,Small Town,High,Associate’s,"Anime, Clubbing, DIY",138,Addicted,0.62,Optimistic,163,22,4,112,87,0.18,10,Early Morning,Blocked,39,167,53.3,Virgo,Curvy,Exploring
+Male,Asexual,Metro,Lower-Middle,High School,"Tech, Makeup, Parenting",161,Addicted,0.38,Balanced,54,20,3,202,82,0.32,14,Morning,No Action,44,168,81.3,Capricorn,Slim,Serious Relationship
+Female,Bisexual,Remote Area,Upper-Middle,Postdoc,"Spirituality, Sneaker Culture, Meditation",219,Extreme User,0.47,Optimistic,149,12,2,112,17,0.54,16,Evening,One-sided Like,59,159,67.8,Capricorn,Muscular,Hookups
+Male,Gay,Suburban,High,Diploma,"MMA, Board Games, Startups",32,Moderate,0.23,Balanced,98,12,4,239,67,0.27,8,Late Night,Mutual Match,26,160,65.0,Taurus,Plus Size,Exploring
+Prefer Not to Say,Gay,Remote Area,Upper-Middle,Bachelor’s,"Social Activism, Astrology, Photography",150,Addicted,0.68,Optimistic,111,5,3,1,92,0.27,23,Afternoon,Relationship Formed,24,151,55.6,Gemini,Athletic,Friends Only
+Female,Gay,Remote Area,Lower-Middle,Postdoc,"Startups, Fashion, Yoga",191,Extreme User,0.41,Optimistic,195,5,4,488,99,0.57,16,Early Morning,Catfished,46,194,79.4,Gemini,Slim,Casual Dating
+Non-binary,Queer,Urban,Very Low,Master’s,"Memes, Fitness, Gaming",123,Addicted,0.53,Optimistic,145,30,0,43,93,0.13,15,Early Morning,Relationship Formed,46,162,74.0,Cancer,Plus Size,Serious Relationship
+Female,Lesbian,Remote Area,Middle,Postdoc,"Anime, Spirituality, Stand-up Comedy",216,Extreme User,0.71,Swipe Maniac,54,29,4,386,93,0.43,22,Morning,No Action,26,176,76.8,Taurus,Athletic,Serious Relationship
+Transgender,Asexual,Metro,Upper-Middle,PhD,"Photography, Fitness, Politics",32,Moderate,0.38,Balanced,86,0,4,283,29,0.23,18,Morning,Mutual Match,21,158,62.7,Taurus,Curvy,Friends Only
+Male,Straight,Suburban,Very Low,No Formal Education,"Astrology, Cooking, Investing",121,Addicted,0.28,Balanced,71,21,3,109,69,0.08,4,After Midnight,Catfished,44,150,56.7,Virgo,Athletic,Serious Relationship
+Genderfluid,Queer,Suburban,Very High,PhD,"Poetry, Fashion, Movies",49,Moderate,0.56,Optimistic,168,13,2,216,52,0.39,14,After Midnight,Mutual Match,32,163,47.8,Cancer,Average,Casual Dating
+Prefer Not to Say,Gay,Urban,Middle,Master’s,"Movies, Fitness, Fashion",97,High,0.49,Optimistic,137,14,1,216,23,0.54,8,Evening,Blocked,20,145,54.2,Cancer,Athletic,Networking
+Male,Queer,Small Town,Very Low,No Formal Education,"Social Activism, Painting, Hiking",47,Moderate,0.49,Optimistic,192,27,1,85,52,0.31,15,Evening,Blocked,43,147,45.6,Scorpio,Plus Size,Networking
+Transgender,Straight,Suburban,Middle,No Formal Education,"DIY, Spirituality, Clubbing",146,Addicted,0.46,Optimistic,108,22,5,401,71,0.41,21,After Midnight,Date Happened,56,182,87.8,Capricorn,Slim,Friends Only
+Female,Bisexual,Rural,Low,No Formal Education,"Meditation, Sneaker Culture, Painting",31,Moderate,0.65,Optimistic,191,10,0,25,74,0.18,15,Late Night,Relationship Formed,19,197,104.8,Libra,Muscular,Friends Only
+Female,Straight,Small Town,Very Low,Diploma,"Cooking, Startups, MMA",120,Addicted,0.68,Optimistic,103,3,4,126,74,0.2,19,Early Morning,Catfished,18,200,105.2,Capricorn,Slim,Friends Only
+Male,Demisexual,Remote Area,Upper-Middle,Postdoc,"Foodie, Spirituality, Tech",160,Addicted,0.54,Optimistic,61,8,3,67,85,0.19,20,Afternoon,Date Happened,44,160,50.7,Aquarius,Muscular,Networking
+Non-binary,Gay,Urban,Middle,High School,"Cooking, Painting, Tech",259,Extreme User,0.56,Optimistic,67,4,2,451,8,0.68,7,Afternoon,No Action,41,189,71.8,Libra,Curvy,Hookups
+Female,Queer,Small Town,High,Bachelor’s,"History, Social Activism, Stand-up Comedy",4,Barely,0.57,Optimistic,170,26,4,153,84,0.29,3,Morning,No Action,22,168,53.6,Cancer,Muscular,Networking
+Male,Gay,Remote Area,Upper-Middle,Diploma,"Art, Coding, Startups",107,High,0.88,Swipe Maniac,183,10,1,351,81,0.29,8,Late Night,Date Happened,25,151,61.3,Taurus,Muscular,Networking
+Non-binary,Straight,Urban,High,MBA,"Art, Dancing, Hiking",170,Addicted,0.17,Choosy,197,4,5,134,20,0.12,23,Evening,Relationship Formed,58,195,89.7,Aquarius,Slim,Casual Dating
+Prefer Not to Say,Demisexual,Small Town,Very Low,High School,"Cooking, Motorcycling, Yoga",279,Extreme User,0.46,Optimistic,9,5,4,282,18,0.28,13,Morning,Mutual Match,44,193,103.2,Capricorn,Athletic,Hookups
+Non-binary,Asexual,Urban,Lower-Middle,Associate’s,"MMA, Fitness, K-pop",52,Moderate,0.5,Optimistic,90,24,4,452,52,0.36,19,After Midnight,Ghosted,31,183,92.1,Cancer,Plus Size,Exploring
+Female,Lesbian,Suburban,Middle,No Formal Education,"Pets, Sneaker Culture, Astrology",210,Extreme User,0.78,Swipe Maniac,171,27,5,415,31,0.13,8,Morning,One-sided Like,25,148,44.7,Aquarius,Plus Size,Hookups
+Transgender,Straight,Metro,Low,Associate’s,"Clubbing, Writing, Memes",116,High,0.52,Optimistic,57,0,5,98,51,0.16,10,Afternoon,One-sided Like,26,179,83.0,Sagittarius,Athletic,Networking
+Non-binary,Asexual,Remote Area,Upper-Middle,MBA,"MMA, Painting, Astrology",14,Very Low,0.19,Choosy,29,28,2,91,74,0.23,8,Early Morning,One-sided Like,38,171,65.8,Virgo,Plus Size,Friends Only
+Genderfluid,Demisexual,Rural,High,Master’s,"Board Games, Startups, Investing",59,Moderate,0.32,Balanced,98,28,4,97,32,0.17,1,After Midnight,Chat Ignored,53,182,93.4,Scorpio,Slim,Serious Relationship
+Male,Bisexual,Rural,Middle,High School,"K-pop, Astrology, History",160,Addicted,0.66,Optimistic,169,27,0,368,38,0.06,16,Afternoon,Chat Ignored,53,167,73.3,Gemini,Average,Hookups
+Non-binary,Demisexual,Remote Area,Lower-Middle,Postdoc,"Traveling, Fashion, Poetry",194,Extreme User,1.0,Swipe Maniac,173,23,1,315,72,0.24,9,Evening,Relationship Formed,57,186,76.8,Scorpio,Average,Serious Relationship
+Male,Pansexual,Rural,Low,MBA,"Meditation, Startups, Social Activism",164,Addicted,0.6,Optimistic,119,14,3,345,27,0.25,16,Evening,Ghosted,30,169,67.4,Pisces,Curvy,Friends Only
+Prefer Not to Say,Gay,Rural,Upper-Middle,Master’s,"Reading, Crafting, Fitness",158,Addicted,0.74,Swipe Maniac,57,25,1,75,3,0.39,1,Morning,Date Happened,24,171,69.3,Virgo,Plus Size,Friends Only
+Genderfluid,Gay,Metro,Middle,Associate’s,"Parenting, Motorcycling, DIY",253,Extreme User,0.87,Swipe Maniac,102,7,1,335,88,0.27,0,Early Morning,Chat Ignored,36,200,84.4,Pisces,Muscular,Friends Only
+Female,Lesbian,Remote Area,Upper-Middle,PhD,"Gaming, Languages, Fitness",62,High,0.31,Balanced,116,4,6,237,85,0.54,16,Late Night,Catfished,25,194,109.1,Taurus,Muscular,Casual Dating
+Non-binary,Queer,Small Town,Very High,Postdoc,"Board Games, Languages, Running",81,High,0.66,Optimistic,190,27,3,230,33,0.71,7,After Midnight,No Action,48,187,77.3,Cancer,Muscular,Hookups
+Genderfluid,Queer,Remote Area,Low,Bachelor’s,"Running, Cooking, Parenting",146,Addicted,0.35,Balanced,60,8,2,163,69,0.22,2,Morning,Ghosted,28,200,94.8,Sagittarius,Athletic,Friends Only
+Female,Demisexual,Remote Area,Low,Associate’s,"Cooking, Poetry, Astrology",277,Extreme User,0.5,Optimistic,119,13,0,105,53,0.66,12,Late Night,Mutual Match,32,156,63.0,Pisces,Curvy,Serious Relationship
+Genderfluid,Demisexual,Metro,Very Low,Master’s,"Memes, Crafting, DIY",214,Extreme User,0.49,Optimistic,137,23,5,279,77,0.1,7,Evening,Blocked,58,179,85.5,Taurus,Curvy,Exploring
+Non-binary,Demisexual,Metro,Very Low,MBA,"Astrology, K-pop, MMA",207,Extreme User,0.46,Optimistic,185,5,6,239,16,0.39,19,Late Night,Mutual Match,45,161,66.4,Aries,Slim,Hookups
+Transgender,Straight,Urban,High,MBA,"Traveling, Clubbing, Pets",25,Low,0.65,Optimistic,66,12,2,108,58,0.27,10,Afternoon,Chat Ignored,36,199,74.4,Leo,Plus Size,Serious Relationship
+Non-binary,Demisexual,Rural,Very High,High School,"Skating, Music, Sneaker Culture",276,Extreme User,0.54,Optimistic,13,5,1,332,8,0.08,20,Early Morning,Mutual Match,56,180,65.4,Capricorn,Plus Size,Casual Dating
+Female,Bisexual,Urban,Upper-Middle,Diploma,"Fitness, Traveling, Skating",58,Moderate,0.85,Swipe Maniac,144,30,1,238,89,0.4,8,Afternoon,Ghosted,51,198,88.2,Pisces,Curvy,Friends Only
+Genderfluid,Gay,Suburban,Lower-Middle,High School,"Meditation, Music, Memes",294,Extreme User,0.72,Swipe Maniac,173,29,3,203,91,0.33,6,Early Morning,Catfished,53,199,72.5,Scorpio,Average,Friends Only
+Prefer Not to Say,Bisexual,Urban,High,Bachelor’s,"MMA, Startups, Photography",289,Extreme User,0.38,Balanced,200,1,2,272,54,0.11,21,Afternoon,One-sided Like,44,184,73.5,Virgo,Average,Casual Dating
+Genderfluid,Asexual,Urban,Very High,MBA,"Gardening, Movies, Board Games",185,Extreme User,0.69,Optimistic,162,28,6,235,90,0.51,4,Evening,Ghosted,41,152,49.0,Sagittarius,Muscular,Serious Relationship
+Prefer Not to Say,Pansexual,Small Town,Very High,Postdoc,"Skating, Clubbing, Board Games",137,Addicted,0.2,Balanced,82,27,1,425,11,0.19,8,Evening,Blocked,52,151,51.1,Cancer,Plus Size,Serious Relationship
+Transgender,Demisexual,Rural,Very Low,PhD,"Foodie, Pets, Gardening",108,High,0.64,Optimistic,90,25,2,174,35,0.1,19,After Midnight,No Action,27,160,72.2,Scorpio,Average,Networking
+Genderfluid,Straight,Small Town,Low,High School,"Fitness, Tattoos, Poetry",250,Extreme User,0.43,Optimistic,142,24,1,353,60,0.13,20,After Midnight,Date Happened,29,146,57.3,Taurus,Curvy,Exploring
+Transgender,Straight,Urban,Lower-Middle,Associate’s,"Binge-Watching, Motorcycling, Fitness",156,Addicted,0.51,Optimistic,169,18,2,242,70,0.1,16,Afternoon,Chat Ignored,37,194,111.8,Cancer,Plus Size,Networking
+Prefer Not to Say,Asexual,Rural,High,PhD,"Art, Memes, Spirituality",118,High,0.67,Optimistic,30,23,1,161,15,0.03,23,Late Night,Ghosted,42,186,65.0,Pisces,Slim,Friends Only
+Female,Bisexual,Remote Area,Middle,Bachelor’s,"Tattoos, Meditation, Crafting",268,Extreme User,0.34,Balanced,152,9,0,426,24,0.32,9,Morning,Instant Match,45,194,91.5,Virgo,Plus Size,Casual Dating
+Female,Pansexual,Urban,High,Postdoc,"Traveling, Art, Dancing",27,Low,0.83,Swipe Maniac,141,9,5,483,16,0.25,20,Evening,One-sided Like,40,163,62.2,Cancer,Slim,Serious Relationship
+Male,Pansexual,Metro,Middle,PhD,"Astrology, Pets, Gaming",129,Addicted,0.25,Balanced,122,3,6,33,51,0.36,15,Early Morning,Catfished,48,190,107.6,Aries,Plus Size,Hookups
+Prefer Not to Say,Straight,Suburban,Low,Bachelor’s,"Reading, Fitness, Photography",285,Extreme User,0.83,Swipe Maniac,195,13,4,305,79,0.09,7,Late Night,Chat Ignored,32,174,61.2,Leo,Athletic,Exploring
+Transgender,Queer,Rural,Very High,MBA,"Memes, Makeup, History",30,Moderate,0.59,Optimistic,156,30,5,50,97,0.38,6,After Midnight,Blocked,46,172,66.0,Cancer,Curvy,Friends Only
+Non-binary,Gay,Suburban,Low,Diploma,"Languages, Cooking, Anime",1,Barely,0.31,Balanced,104,14,5,304,60,0.36,9,Early Morning,Blocked,41,163,69.9,Sagittarius,Plus Size,Casual Dating
+Non-binary,Pansexual,Remote Area,Very High,PhD,"Cooking, MMA, Politics",135,Addicted,0.41,Optimistic,160,18,5,411,25,0.28,13,Early Morning,Relationship Formed,30,181,77.0,Leo,Plus Size,Hookups
+Female,Lesbian,Rural,Very High,Diploma,"Cooking, Gaming, Anime",157,Addicted,0.97,Swipe Maniac,152,23,6,291,36,0.11,14,Early Morning,Date Happened,54,186,90.3,Aquarius,Athletic,Casual Dating
+Prefer Not to Say,Pansexual,Remote Area,Middle,Bachelor’s,"Investing, Painting, Gardening",224,Extreme User,0.51,Optimistic,20,19,0,455,55,0.42,23,Afternoon,Catfished,52,200,85.2,Taurus,Curvy,Exploring
+Non-binary,Straight,Urban,Low,No Formal Education,"Crafting, MMA, Art",295,Extreme User,0.76,Swipe Maniac,10,2,3,265,83,0.04,14,Afternoon,Ghosted,34,165,59.9,Cancer,Athletic,Hookups
+Genderfluid,Demisexual,Remote Area,Very High,PhD,"Reading, Skating, Writing",209,Extreme User,0.38,Balanced,85,10,5,53,20,0.45,10,Evening,Date Happened,25,171,86.0,Aquarius,Muscular,Networking
+Non-binary,Demisexual,Small Town,Very Low,PhD,"Reading, Foodie, Spirituality",165,Addicted,0.38,Balanced,29,24,3,442,65,0.15,0,After Midnight,Relationship Formed,52,147,57.5,Leo,Plus Size,Friends Only
+Transgender,Demisexual,Urban,Low,Postdoc,"Cars, History, Crafting",255,Extreme User,0.56,Optimistic,160,14,6,26,26,0.13,8,Late Night,Ghosted,29,163,65.9,Gemini,Curvy,Serious Relationship
+Non-binary,Queer,Remote Area,Middle,High School,"Music, Podcasts, Startups",122,Addicted,0.14,Choosy,181,5,2,282,1,0.08,17,Evening,One-sided Like,54,172,76.6,Virgo,Slim,Networking
+Female,Gay,Metro,Very Low,Diploma,"Gardening, Parenting, Coding",260,Extreme User,0.46,Optimistic,180,8,3,427,61,0.55,15,Morning,Date Happened,38,181,88.1,Sagittarius,Athletic,Friends Only
+Genderfluid,Lesbian,Metro,Low,Postdoc,"Sneaker Culture, Traveling, Cooking",141,Addicted,0.5,Optimistic,197,25,6,212,43,0.34,16,Afternoon,Mutual Match,59,177,87.1,Scorpio,Plus Size,Networking
+Non-binary,Pansexual,Small Town,Upper-Middle,PhD,"Yoga, Running, Painting",247,Extreme User,0.44,Optimistic,88,10,4,390,69,0.28,12,Evening,Instant Match,33,149,59.7,Capricorn,Athletic,Friends Only
+Female,Bisexual,Small Town,Middle,Associate’s,"Poetry, Dancing, Foodie",242,Extreme User,0.88,Swipe Maniac,180,29,6,195,49,0.55,21,After Midnight,Ghosted,40,185,80.4,Gemini,Average,Serious Relationship
+Transgender,Straight,Suburban,Upper-Middle,Master’s,"Movies, Running, Stand-up Comedy",233,Extreme User,0.26,Balanced,3,1,3,445,83,0.31,4,Early Morning,Date Happened,44,167,77.3,Pisces,Athletic,Hookups
+Non-binary,Asexual,Small Town,High,MBA,"Social Activism, Reading, Astrology",273,Extreme User,0.36,Balanced,97,30,2,320,91,0.19,15,Late Night,Mutual Match,46,170,60.4,Pisces,Curvy,Casual Dating
+Genderfluid,Gay,Suburban,High,Bachelor’s,"Politics, Sneaker Culture, Reading",222,Extreme User,0.47,Optimistic,25,24,5,360,12,0.24,14,Morning,No Action,23,171,71.3,Pisces,Muscular,Casual Dating
+Male,Straight,Rural,Very High,No Formal Education,"Coding, Writing, Cars",220,Extreme User,0.41,Optimistic,37,7,4,210,72,0.34,21,Morning,Ghosted,33,173,80.5,Libra,Athletic,Exploring
+Female,Gay,Small Town,Very High,MBA,"History, MMA, Fitness",254,Extreme User,0.55,Optimistic,149,4,1,236,81,0.5,8,Evening,No Action,23,178,66.2,Leo,Curvy,Hookups
+Prefer Not to Say,Straight,Metro,Lower-Middle,Postdoc,"Anime, Cooking, Running",176,Addicted,0.37,Balanced,150,9,5,492,54,0.43,22,Afternoon,Date Happened,41,181,61.3,Scorpio,Muscular,Friends Only
+Non-binary,Bisexual,Metro,Very High,PhD,"Movies, Fitness, DIY",292,Extreme User,0.8,Swipe Maniac,91,18,2,358,37,0.22,0,After Midnight,Chat Ignored,32,193,71.9,Capricorn,Slim,Friends Only
+Non-binary,Straight,Small Town,Very High,No Formal Education,"Startups, Sneaker Culture, Gardening",146,Addicted,0.75,Swipe Maniac,198,25,1,310,45,0.39,7,After Midnight,Blocked,39,166,68.6,Sagittarius,Slim,Exploring
+Genderfluid,Pansexual,Remote Area,Very High,Diploma,"Podcasts, Movies, Social Activism",20,Low,0.58,Optimistic,79,25,3,17,74,0.18,11,After Midnight,Ghosted,25,184,96.8,Capricorn,Average,Exploring
+Male,Pansexual,Rural,High,MBA,"Pets, Fashion, Traveling",276,Extreme User,0.51,Optimistic,93,16,4,467,34,0.4,5,Afternoon,Date Happened,21,174,89.9,Gemini,Athletic,Friends Only
+Non-binary,Asexual,Urban,Middle,High School,"Yoga, Crafting, Politics",203,Extreme User,0.35,Balanced,142,11,0,404,50,0.54,0,Afternoon,Relationship Formed,18,145,56.6,Leo,Athletic,Serious Relationship
+Male,Queer,Rural,High,Bachelor’s,"Meditation, DIY, Podcasts",190,Extreme User,0.74,Swipe Maniac,27,21,1,241,3,0.32,19,Late Night,Instant Match,29,152,64.9,Scorpio,Athletic,Casual Dating
+Genderfluid,Bisexual,Remote Area,Very Low,PhD,"Motorcycling, Memes, Social Activism",209,Extreme User,0.34,Balanced,29,4,0,484,4,0.39,9,Evening,One-sided Like,41,185,69.8,Sagittarius,Average,Casual Dating
+Male,Bisexual,Small Town,Low,MBA,"Clubbing, Cars, K-pop",276,Extreme User,0.12,Choosy,107,18,5,372,19,0.42,13,After Midnight,One-sided Like,18,153,49.2,Capricorn,Average,Serious Relationship
+Transgender,Demisexual,Rural,Very Low,Master’s,"Tech, Running, Fitness",185,Extreme User,0.6,Optimistic,25,21,2,278,82,0.25,11,Early Morning,Chat Ignored,36,175,69.5,Gemini,Athletic,Exploring
+Non-binary,Bisexual,Urban,Very High,PhD,"Reading, K-pop, Tech",10,Very Low,0.49,Optimistic,12,12,2,124,16,0.42,18,Morning,One-sided Like,21,195,97.0,Aries,Athletic,Networking
+Genderfluid,Bisexual,Small Town,Low,Associate’s,"Astrology, Yoga, Startups",1,Barely,0.77,Swipe Maniac,70,27,1,66,69,0.28,8,Morning,One-sided Like,54,152,69.3,Pisces,Athletic,Serious Relationship
+Prefer Not to Say,Straight,Suburban,Very Low,Master’s,"Fitness, Meditation, Foodie",8,Very Low,0.48,Optimistic,44,8,0,64,94,0.25,13,Late Night,One-sided Like,26,150,65.7,Libra,Curvy,Casual Dating
+Prefer Not to Say,Gay,Metro,Middle,Master’s,"Investing, Meditation, Movies",231,Extreme User,0.51,Optimistic,128,7,4,22,93,0.39,21,Late Night,No Action,18,173,60.2,Virgo,Slim,Networking
+Transgender,Straight,Urban,Middle,MBA,"Board Games, MMA, Movies",251,Extreme User,0.23,Balanced,170,23,5,191,85,0.43,2,Early Morning,Ghosted,50,190,99.9,Leo,Average,Hookups
+Male,Bisexual,Remote Area,Low,High School,"Gardening, Yoga, Binge-Watching",180,Extreme User,0.62,Optimistic,96,7,4,249,72,0.16,5,Afternoon,Instant Match,49,194,84.7,Virgo,Slim,Exploring
+Male,Gay,Metro,Lower-Middle,Associate’s,"Binge-Watching, MMA, History",21,Low,0.76,Swipe Maniac,168,4,6,260,30,0.37,15,Evening,Ghosted,24,164,55.5,Leo,Slim,Serious Relationship
+Female,Asexual,Suburban,Very High,PhD,"Writing, Art, Social Activism",192,Extreme User,0.4,Balanced,115,22,2,305,53,0.14,1,Morning,Relationship Formed,33,166,54.4,Aquarius,Curvy,Casual Dating
+Non-binary,Pansexual,Small Town,Lower-Middle,Diploma,"Coding, Parenting, Investing",290,Extreme User,0.58,Optimistic,154,26,3,109,24,0.32,18,After Midnight,Date Happened,51,191,89.5,Sagittarius,Muscular,Networking
+Genderfluid,Lesbian,Rural,Middle,Associate’s,"K-pop, Movies, Fashion",80,High,0.54,Optimistic,174,13,1,102,96,0.33,14,Evening,Mutual Match,35,160,51.8,Aries,Plus Size,Friends Only
+Transgender,Straight,Urban,Very High,Postdoc,"Traveling, Stand-up Comedy, Writing",75,High,0.68,Optimistic,146,29,5,36,54,0.22,12,Afternoon,Date Happened,28,157,48.8,Gemini,Muscular,Serious Relationship
+Prefer Not to Say,Lesbian,Metro,Low,MBA,"Meditation, Politics, Parenting",212,Extreme User,0.52,Optimistic,193,16,6,233,63,0.3,16,Afternoon,One-sided Like,38,155,59.5,Capricorn,Athletic,Exploring
+Female,Demisexual,Suburban,High,Bachelor’s,"DIY, History, Pets",100,High,0.87,Swipe Maniac,59,20,4,295,43,0.48,5,Late Night,Blocked,42,176,70.5,Aquarius,Average,Hookups
+Genderfluid,Queer,Remote Area,Upper-Middle,No Formal Education,"Astrology, Art, Music",45,Moderate,0.36,Balanced,26,2,3,485,3,0.65,11,After Midnight,Chat Ignored,55,164,72.6,Virgo,Plus Size,Casual Dating
+Male,Straight,Small Town,Very Low,MBA,"Tattoos, Writing, Foodie",299,Extreme User,0.4,Balanced,6,25,0,323,73,0.41,1,Morning,No Action,27,155,50.1,Cancer,Slim,Friends Only
+Non-binary,Gay,Urban,Low,Postdoc,"Pets, Board Games, Sneaker Culture",220,Extreme User,0.7,Swipe Maniac,210,18,2,112,50,0.15,20,Evening,Relationship Formed,39,178,82.4,Pisces,Muscular,Networking
+Female,Bisexual,Rural,Very Low,High School,"Cooking, Art, Tattoos",12,Very Low,0.59,Optimistic,155,12,4,489,68,0.5,12,Afternoon,Mutual Match,58,187,90.2,Aries,Curvy,Casual Dating
+Non-binary,Bisexual,Suburban,Middle,Associate’s,"Travel, Fitness, Yoga",150,Addicted,0.34,Balanced,167,23,5,280,31,0.08,9,Morning,One-sided Like,20,186,88.7,Aries,Muscular,Exploring
+Genderfluid,Straight,Remote Area,High,PhD,"K-pop, Investing, Stand-up Comedy",265,Extreme User,0.72,Swipe Maniac,190,1,1,165,37,0.52,14,Late Night,Blocked,47,157,59.3,Leo,Slim,Serious Relationship
+Female,Gay,Small Town,Lower-Middle,Diploma,"MMA, Photography, Sneaker Culture",30,Moderate,0.64,Optimistic,156,26,4,136,17,0.3,2,Early Morning,Ghosted,52,190,95.5,Aquarius,Athletic,Hookups
+Transgender,Pansexual,Rural,Upper-Middle,Bachelor’s,"Art, Motorcycling, Writing",140,Addicted,0.61,Optimistic,23,23,3,250,9,0.22,18,Morning,Chat Ignored,34,168,73.0,Cancer,Curvy,Friends Only
+Male,Demisexual,Urban,High,Postdoc,"Pets, History, DIY",185,Extreme User,0.48,Optimistic,147,7,6,120,40,0.37,23,Evening,Date Happened,22,174,68.9,Libra,Slim,Serious Relationship
+Prefer Not to Say,Queer,Metro,Very High,MBA,"Gaming, Cooking, Social Activism",260,Extreme User,0.32,Balanced,110,21,1,419,10,0.46,1,After Midnight,Mutual Match,49,165,60.8,Aries,Average,Casual Dating
+Male,Straight,Suburban,Middle,Master’s,"Astrology, Binge-Watching, Fitness",225,Extreme User,0.5,Optimistic,180,24,2,220,53,0.3,10,Morning,Ghosted,50,178,74.5,Pisces,Curvy,Exploring
+Non-binary,Lesbian,Remote Area,Very Low,High School,"Photography, Reading, Art",10,Very Low,0.7,Swipe Maniac,55,19,4,305,45,0.41,13,Afternoon,Mutual Match,31,162,56.0,Virgo,Muscular,Networking
+Genderfluid,Straight,Rural,Lower-Middle,PhD,"Music, Tech, History",50,Moderate,0.3,Balanced,90,13,0,10,75,0.2,16,Late Night,One-sided Like,37,173,69.0,Cancer,Slim,Hookups
+Female,Queer,Urban,Upper-Middle,Diploma,"Crafting, Meditation, Tattoos",155,Addicted,0.5,Optimistic,135,28,3,400,20,0.25,20,After Midnight,Relationship Formed,29,159,62.5,Taurus,Curvy,Casual Dating
+Male,Gay,Metro,High,Master’s,"Stand-up Comedy, Investing, Fitness",245,Extreme User,0.73,Swipe Maniac,16,11,4,350,91,0.5,22,Early Morning,Blocked,24,191,95.1,Aries,Average,Friends Only
+Non-binary,Bisexual,Small Town,Middle,Associate’s,"Podcasts, DIY, Music",105,High,0.45,Optimistic,150,22,1,100,5,0.1,19,Afternoon,Date Happened,46,183,86.6,Virgo,Athletic,Serious Relationship
+Transgender,Demisexual,Suburban,Low,Postdoc,"Yoga, Pets, Anime",200,Extreme User,0.8,Swipe Maniac,50,5,5,490,90,0.4,8,Evening,Chat Ignored,32,152,50.8,Aries,Slim,Networking
+Prefer Not to Say,Asexual,Urban,Upper-Middle,Bachelor’s,"Movies, Motorcycling, Writing",170,Addicted,0.4,Balanced,200,10,2,210,10,0.35,14,Morning,One-sided Like,53,171,68.8,Gemini,Muscular,Exploring
+Genderfluid,Pansexual,Metro,Very Low,High School,"Cooking, Art, Fitness",255,Extreme User,0.65,Optimistic,120,27,3,420,50,0.2,1,Late Night,Mutual Match,48,154,54.7,Cancer,Athletic,Friends Only
+Male,Queer,Remote Area,Middle,PhD,"Social Activism, Traveling, Reading",95,High,0.55,Optimistic,175,25,0,330,15,0.15,10,Afternoon,Relationship Formed,39,176,73.1,Leo,Curvy,Hookups
+Female,Straight,Suburban,Lower-Middle,Master’s,"Gaming, Fashion, Pets",130,Addicted,0.25,Balanced,130,2,4,450,80,0.5,17,Evening,Date Happened,27,163,56.5,Libra,Average,Serious Relationship
+Non-binary,Lesbian,Rural,High,No Formal Education,"Astrology, Coding, Gaming",280,Extreme User,0.85,Swipe Maniac,190,15,1,380,55,0.45,4,Early Morning,Ghosted,51,190,100.2,Scorpio,Plus Size,Hookups
+Transgender,Bisexual,Urban,Very High,Diploma,"Binge-Watching, Photography, Music",5,Barely,0.42,Optimistic,40,28,6,60,25,0.3,19,Afternoon,Blocked,44,160,54.5,Sagittarius,Slim,Casual Dating
+Prefer Not to Say,Demisexual,Metro,Middle,Associate’s,"Writing, Meditation, Investing",295,Extreme User,0.78,Swipe Maniac,100,20,5,40,99,0.1,12,Late Night,No Action,36,180,80.1,Capricorn,Muscular,Networking
+Male,Straight,Small Town,Low,Postdoc,"DIY, Running, History",115,High,0.3,Balanced,160,13,2,240,40,0.6,23,After Midnight,Catfished,21,185,85.8,Aquarius,Curvy,Exploring
+Female,Asexual,Remote Area,Very Low,Master’s,"Board Games, Art, Tattoos",265,Extreme User,0.5,Optimistic,15,4,4,150,5,0.2,9,Morning,Mutual Match,59,179,81.4,Pisces,Athletic,Friends Only
+Non-binary,Queer,Urban,High,PhD,"Stand-up Comedy, Traveling, Coding",20,Low,0.68,Optimistic,70,26,1,310,70,0.15,16,Afternoon,One-sided Like,40,165,65.0,Aries,Average,Casual Dating
+Genderfluid,Gay,Suburban,Middle,Bachelor’s,"Pets, Makeup, Investing",185,Extreme User,0.4,Balanced,120,25,3,490,60,0.5,17,Evening,Chat Ignored,35,170,68.7,Taurus,Slim,Serious Relationship
+Male,Pansexual,Rural,Upper-Middle,Diploma,"Fashion, Binge-Watching, Gaming",145,Addicted,0.6,Optimistic,190,18,6,280,30,0.4,2,Early Morning,Date Happened,52,183,86.2,Gemini,Plus Size,Hookups
+Female,Bisexual,Metro,Low,High School,"Cooking, Art, Music",75,High,0.4,Balanced,155,11,0,320,75,0.35,15,After Midnight,Relationship Formed,43,155,54.3,Cancer,Slim,Exploring
+Transgender,Lesbian,Small Town,Very High,Associate’s,"Meditation, Poetry, Photography",190,Extreme User,0.7,Swipe Maniac,110,23,5,10,88,0.25,18,Morning,Ghosted,28,162,56.7,Leo,Muscular,Networking
+Prefer Not to Say,Straight,Urban,Middle,PhD,"DIY, Motorcycling, Writing",10,Very Low,0.5,Optimistic,185,9,2,260,15,0.18,1,Afternoon,Blocked,47,195,105.7,Virgo,Curvy,Casual Dating
+Male,Asexual,Remote Area,Lower-Middle,Master’s,"Stand-up Comedy, Astrology, Cooking",270,Extreme User,0.3,Balanced,60,4,4,370,5,0.6,20,Evening,One-sided Like,33,178,79.5,Libra,Athletic,Friends Only
+Non-binary,Demisexual,Suburban,High,No Formal Education,"Traveling, Reading, Tech",50,Moderate,0.8,Swipe Maniac,125,2,1,430,94,0.3,10,Late Night,Mutual Match,58,165,65.6,Scorpio,Average,Hookups
+Genderfluid,Queer,Metro,Very Low,Postdoc,"K-pop, Social Activism, Tattoos",120,Addicted,0.4,Balanced,170,25,3,500,45,0.2,14,After Midnight,Date Happened,24,149,45.8,Sagittarius,Plus Size,Serious Relationship
+Female,Lesbian,Small Town,Middle,MBA,"Crafting, History, Binge-Watching",230,Extreme User,0.7,Swipe Maniac,195,15,6,120,70,0.15,7,Morning,Chat Ignored,38,187,88.4,Capricorn,Slim,Exploring
+Transgender,Straight,Rural,Upper-Middle,High School,"Art, Music, Gaming",135,Addicted,0.45,Optimistic,10,28,0,300,50,0.55,16,Afternoon,Relationship Formed,55,180,82.3,Aquarius,Curvy,Casual Dating
+Prefer Not to Say,Bisexual,Urban,Low,Associate’s,"Fitness, Movies, Investing",285,Extreme User,0.6,Optimistic,180,13,4,180,10,0.38,19,Evening,Ghosted,30,167,61.9,Pisces,Muscular,Networking
+Male,Gay,Metro,Very High,PhD,"Yoga, Stand-up Comedy, Pets",150,Addicted,0.3,Balanced,90,7,1,460,95,0.1,2,Early Morning,Blocked,45,182,79.8,Aries,Plus Size,Friends Only
+Non-binary,Straight,Suburban,Lower-Middle,Master’s,"DIY, Languages, Tattoos",215,Extreme User,0.5,Optimistic,15,10,5,340,35,0.6,15,Afternoon,Catfished,22,192,101.4,Taurus,Curvy,Serious Relationship
+Genderfluid,Demisexual,Remote Area,Middle,Bachelor’s,"Cooking, Reading, Social Activism",40,Moderate,0.8,Swipe Maniac,175,25,2,70,80,0.4,18,Late Night,No Action,50,154,55.1,Gemini,Athletic,Hookups
+Female,Queer,Urban,Very Low,Postdoc,"Motorcycling, Art, History",255,Extreme User,0.45,Optimistic,125,18,3,490,20,0.25,11,Morning,Mutual Match,34,164,61.5,Cancer,Muscular,Exploring
+Transgender,Pansexual,Small Town,High,MBA,"Sneaker Culture, Writing, Coding",10,Very Low,0.75,Swipe Maniac,140,22,6,150,90,0.5,21,After Midnight,Date Happened,49,158,60.7,Leo,Slim,Friends Only
+Prefer Not to Say,Straight,Rural,Upper-Middle,High School,"Gardening, Clubbing, Music",200,Extreme User,0.35,Balanced,165,15,1,320,5,0.15,14,Afternoon,Relationship Formed,27,175,75.0,Virgo,Average,Casual Dating
+Male,Bisexual,Metro,Low,Associate’s,"Pets, Binge-Watching, Yoga",90,High,0.5,Optimistic,80,2,4,20,70,0.3,17,Evening,Ghosted,56,189,96.5,Libra,Slim,Serious Relationship
+Non-binary,Gay,Suburban,Middle,PhD,"Stand-up Comedy, Photography, Anime",260,Extreme User,0.4,Balanced,130,28,3,390,30,0.6,10,Morning,Blocked,31,173,69.2,Scorpio,Curvy,Networking
+Genderfluid,Lesbian,Remote Area,Very High,Master’s,"Tech, Travel, Running",5,Barely,0.7,Swipe Maniac,175,12,0,450,10,0.25,23,Afternoon,Chat Ignored,46,195,95.9,Sagittarius,Plus Size,Hookups
+Female,Asexual,Urban,Lower-Middle,Bachelor’s,"Investing, Meditation, DIY",280,Extreme User,0.2,Choosy,40,25,5,100,55,0.4,19,Late Night,Mutual Match,20,157,51.0,Capricorn,Athletic,Exploring
+Transgender,Demisexual,Metro,High,Diploma,"History, Fitness, Cars",120,Addicted,0.65,Optimistic,105,18,2,250,85,0.15,1,After Midnight,One-sided Like,37,170,72.5,Aquarius,Muscular,Casual Dating
+Prefer Not to Say,Straight,Small Town,Very Low,Postdoc,"Social Activism, Foodie, Crafts",160,Addicted,0.5,Optimistic,185,11,4,480,40,0.35,14,Afternoon,Date Happened,44,184,85.2,Pisces,Curvy,Friends Only
+Male,Queer,Rural,Upper-Middle,MBA,"Music, Art, Gaming",235,Extreme User,0.3,Balanced,70,26,1,360,5,0.55,8,Late Night,Relationship Formed,53,176,78.1,Aries,Slim,Serious Relationship
+Non-binary,Bisexual,Suburban,Low,High School,"Sneaker Culture, Tattoos, Reading",170,Addicted,0.7,Swipe Maniac,120,20,6,150,75,0.2,21,After Midnight,Ghosted,39,165,65.0,Taurus,Average,Networking
+Genderfluid,Pansexual,Remote Area,Middle,Associate’s,"Writing, Travel, Investing",290,Extreme User,0.45,Optimistic,195,13,3,20,10,0.45,4,Early Morning,Blocked,26,178,75.3,Gemini,Muscular,Casual Dating
+Female,Gay,Urban,Very High,PhD,"History, Politics, Coding",110,High,0.35,Balanced,55,24,0,440,50,0.3,16,Afternoon,Chat Ignored,50,151,48.6,Cancer,Slim,Exploring
+Transgender,Asexual,Metro,Lower-Middle,Master’s,"DIY, Motorcycling, Binge-Watching",25,Low,0.6,Optimistic,145,15,5,300,80,0.1,19,Evening,Mutual Match,42,168,70.1,Leo,Curvy,Hookups
+Prefer Not to Say,Demisexual,Small Town,High,Bachelor’s,"Fitness, Pets, Clubbing",275,Extreme User,0.4,Balanced,160,22,2,40,25,0.5,12,Afternoon,One-sided Like,33,180,80.7,Virgo,Athletic,Serious Relationship
+Male,Lesbian,Rural,Very Low,Postdoc,"Reading, Yoga, History",180,Extreme User,0.8,Swipe Maniac,110,18,4,350,90,0.25,23,Late Night,Date Happened,28,193,98.9,Libra,Plus Size,Friends Only
+Non-binary,Straight,Urban,Upper-Middle,MBA,"Anime, Gaming, Art",140,Addicted,0.3,Balanced,5,7,1,130,5,0.6,17,Evening,Relationship Formed,55,160,58.8,Scorpio,Curvy,Casual Dating
+Genderfluid,Bisexual,Suburban,Low,High School,"Social Activism, Music, Crafting",255,Extreme User,0.5,Optimistic,135,26,6,470,75,0.4,1,After Midnight,Ghosted,40,172,69.5,Sagittarius,Slim,Networking
+Female,Pansexual,Remote Area,Middle,Associate’s,"Tattoos, Stand-up Comedy, Cooking",20,Low,0.65,Optimistic,170,19,3,250,45,0.15,10,Morning,Blocked,45,150,45.7,Capricorn,Athletic,Exploring
+Transgender,Queer,Small Town,Very High,Diploma,"Binge-Watching, Fitness, Pets",155,Addicted,0.4,Balanced,125,12,0,320,15,0.35,14,Afternoon,Chat Ignored,58,168,75.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Urban,Low,Master’s,"Investing, Movies, Photography",290,Extreme User,0.7,Swipe Maniac,95,28,4,480,85,0.2,7,Early Morning,Mutual Match,24,195,103.5,Pisces,Curvy,Serious Relationship
+Male,Demisexual,Metro,Upper-Middle,Bachelor’s,"Yoga, Travel, Stand-up Comedy",125,Addicted,0.3,Balanced,160,25,1,10,50,0.5,20,Evening,One-sided Like,31,180,81.2,Aries,Slim,Friends Only
+Non-binary,Gay,Suburban,High,Postdoc,"Art, Languages, History",240,Extreme User,0.5,Optimistic,175,18,5,350,20,0.4,23,Late Night,Date Happened,52,190,95.0,Taurus,Average,Casual Dating
+Genderfluid,Lesbian,Remote Area,Lower-Middle,PhD,"Music, Crafting, Gardening",165,Addicted,0.65,Optimistic,115,22,2,420,95,0.15,16,Afternoon,Relationship Formed,29,158,56.9,Gemini,Muscular,Networking
+Female,Pansexual,Small Town,Middle,No Formal Education,"Coding, MMA, Clubbing",80,High,0.4,Balanced,130,15,3,200,10,0.55,1,After Midnight,Ghosted,40,165,65.0,Cancer,Slim,Exploring
+Transgender,Straight,Urban,Very Low,Associate’s,"Meditation, Poetry, Tattoos",270,Extreme User,0.7,Swipe Maniac,185,26,4,450,70,0.3,14,Afternoon,Blocked,45,178,75.2,Leo,Curvy,Hookups
+Prefer Not to Say,Asexual,Metro,Upper-Middle,MBA,"Running, DIY, Pets",100,High,0.3,Balanced,5,9,1,30,5,0.65,17,Evening,Chat Ignored,36,190,92.0,Virgo,Plus Size,Friends Only
+Male,Queer,Suburban,High,High School,"Gaming, Social Activism, Investing",195,Extreme User,0.5,Optimistic,145,20,5,380,80,0.2,2,Early Morning,Mutual Match,50,174,70.5,Libra,Athletic,Serious Relationship
+Non-binary,Bisexual,Remote Area,Middle,Bachelor’s,"Binge-Watching, Movies, Stand-up Comedy",285,Extreme User,0.65,Optimistic,115,13,2,10,25,0.4,19,Afternoon,One-sided Like,27,155,50.1,Scorpio,Slim,Casual Dating
+Genderfluid,Pansexual,Urban,Low,Postdoc,"Astrology, History, Cars",120,Addicted,0.4,Balanced,160,25,4,490,95,0.3,10,Morning,Date Happened,34,188,88.7,Sagittarius,Muscular,Networking
+Female,Lesbian,Metro,Very High,Master’s,"Photography, Fashion, Clubbing",25,Low,0.8,Swipe Maniac,190,18,3,40,10,0.55,23,Late Night,Relationship Formed,55,165,65.0,Capricorn,Curvy,Exploring
+Transgender,Straight,Small Town,Upper-Middle,PhD,"Reading, Cooking, Anime",150,Addicted,0.3,Balanced,135,22,6,150,75,0.2,16,Afternoon,Ghosted,30,172,71.0,Aquarius,Slim,Hookups
+Prefer Not to Say,Demisexual,Rural,Lower-Middle,Associate’s,"Tech, MMA, Gaming",190,Extreme User,0.5,Optimistic,50,15,1,320,5,0.4,1,After Midnight,Blocked,45,170,68.9,Pisces,Muscular,Friends Only
+Male,Gay,Urban,Middle,No Formal Education,"Travel, DIY, Languages",260,Extreme User,0.65,Optimistic,145,24,5,200,60,0.25,14,Afternoon,Chat Ignored,22,190,95.0,Aries,Plus Size,Serious Relationship
+Non-binary,Asexual,Suburban,Very Low,Master’s,"Music, Poetry, Meditation",100,High,0.4,Balanced,160,18,2,450,25,0.55,17,Evening,Mutual Match,58,162,60.2,Taurus,Curvy,Casual Dating
+Genderfluid,Bisexual,Remote Area,High,Bachelor’s,"Coding, History, Stand-up Comedy",20,Low,0.7,Swipe Maniac,135,11,4,30,90,0.3,2,Early Morning,One-sided Like,33,185,85.5,Gemini,Athletic,Networking
+Female,Queer,Small Town,Upper-Middle,Postdoc,"Pets, Fashion, Investing",270,Extreme User,0.5,Optimistic,180,26,3,480,10,0.4,19,Late Night,Date Happened,48,155,54.9,Cancer,Slim,Exploring
+Transgender,Pansexual,Rural,Middle,MBA,"Running, Art, Clubbing",295,Extreme User,0.3,Balanced,15,19,6,150,80,0.25,12,Afternoon,Relationship Formed,27,195,100.1,Leo,Muscular,Hookups
+Prefer Not to Say,Straight,Urban,Very High,High School,"Motorcycling, Binge-Watching, Gaming",115,High,0.65,Optimistic,100,22,1,320,5,0.45,23,After Midnight,Ghosted,50,175,70.5,Virgo,Plus Size,Friends Only
+Male,Lesbian,Metro,Low,Associate’s,"Reading, Social Activism, Yoga",180,Extreme User,0.4,Balanced,130,15,5,40,75,0.2,16,Afternoon,Blocked,35,188,88.9,Libra,Slim,Casual Dating
+Non-binary,Demisexual,Suburban,Upper-Middle,PhD,"Crafting, History, Music",245,Extreme User,0.7,Swipe Maniac,170,28,2,450,10,0.5,19,Evening,Chat Ignored,24,195,105.0,Scorpio,Athletic,Serious Relationship
+Genderfluid,Gay,Remote Area,Very Low,Master’s,"Cars, DIY, Anime",10,Very Low,0.3,Balanced,55,13,4,10,85,0.35,7,Early Morning,Mutual Match,51,165,65.0,Sagittarius,Curvy,Networking
+Female,Pansexual,Urban,Middle,Bachelor’s,"Investing, Photography, Pets",260,Extreme User,0.5,Optimistic,135,26,3,480,50,0.2,20,Afternoon,One-sided Like,40,170,68.7,Capricorn,Muscular,Exploring
+Transgender,Straight,Small Town,High,Postdoc,"Traveling, Foodie, Stand-up Comedy",120,Addicted,0.65,Optimistic,185,19,0,30,25,0.45,1,After Midnight,Date Happened,37,184,85.1,Aquarius,Average,Casual Dating
+Prefer Not to Say,Queer,Rural,Lower-Middle,MBA,"Art, Reading, Meditation",160,Addicted,0.4,Balanced,50,22,5,150,90,0.3,14,Afternoon,Relationship Formed,55,160,57.4,Pisces,Slim,Hookups
+Male,Bisexual,Metro,Very High,High School,"Binge-Watching, MMA, Gaming",290,Extreme User,0.7,Swipe Maniac,125,15,2,400,5,0.5,17,Evening,Ghosted,30,175,75.0,Aries,Curvy,Friends Only
+Non-binary,Asexual,Suburban,Low,Associate’s,"Music, History, Writing",240,Extreme User,0.3,Balanced,170,28,4,450,70,0.25,2,Early Morning,Blocked,45,155,54.9,Taurus,Muscular,Serious Relationship
+Genderfluid,Demisexual,Remote Area,Upper-Middle,PhD,"Fitness, Clubbing, Fashion",100,High,0.5,Optimistic,145,11,1,10,10,0.4,19,Late Night,Chat Ignored,22,190,95.0,Gemini,Plus Size,Networking
+Female,Gay,Small Town,Middle,Master’s,"DIY, Motorcycling, Pets",270,Extreme User,0.65,Optimistic,185,24,6,480,80,0.3,12,Afternoon,Mutual Match,39,165,65.0,Cancer,Slim,Exploring
+Transgender,Pansexual,Urban,Low,Bachelor’s,"Investing, Yoga, Stand-up Comedy",10,Very Low,0.4,Balanced,50,18,3,150,5,0.45,23,After Midnight,One-sided Like,56,178,75.3,Leo,Athletic,Casual Dating
+Prefer Not to Say,Straight,Metro,Very High,Postdoc,"Coding, Tech, Reading",285,Extreme User,0.7,Swipe Maniac,125,20,5,320,75,0.2,16,Afternoon,Date Happened,24,195,105.0,Virgo,Curvy,Hookups
+Male,Lesbian,Rural,Middle,MBA,"Social Activism, Art, Binge-Watching",160,Addicted,0.3,Balanced,170,13,2,40,10,0.55,17,Evening,Relationship Formed,41,160,57.4,Libra,Slim,Friends Only
+Non-binary,Queer,Suburban,Lower-Middle,High School,"Traveling, Photography, Cars",240,Extreme User,0.5,Optimistic,145,26,4,450,80,0.25,2,Early Morning,Ghosted,30,175,75.0,Scorpio,Muscular,Serious Relationship
+Genderfluid,Asexual,Remote Area,Very Low,Associate’s,"Gardening, Music, Meditation",100,High,0.65,Optimistic,185,19,1,10,5,0.4,19,Late Night,Blocked,55,165,65.0,Sagittarius,Curvy,Networking
+Female,Bisexual,Urban,High,PhD,"History, Gaming, DIY",270,Extreme User,0.4,Balanced,50,22,3,480,75,0.3,12,Afternoon,Chat Ignored,35,170,68.7,Capricorn,Slim,Exploring
+Transgender,Demisexual,Small Town,Middle,Master’s,"Pets, Yoga, Investing",295,Extreme User,0.7,Swipe Maniac,125,15,6,30,10,0.55,23,After Midnight,Mutual Match,52,185,85.5,Aquarius,Athletic,Casual Dating
+Prefer Not to Say,Pansexual,Metro,Upper-Middle,Bachelor’s,"Running, Clubbing, Fashion",160,Addicted,0.3,Balanced,170,24,1,150,80,0.2,16,Afternoon,One-sided Like,39,160,57.4,Pisces,Muscular,Hookups
+Male,Gay,Rural,Low,Postdoc,"Stand-up Comedy, Traveling, Foodie",240,Extreme User,0.5,Optimistic,145,18,5,400,5,0.45,17,Evening,Date Happened,28,175,75.0,Aries,Slim,Friends Only
+Non-binary,Straight,Suburban,Very High,MBA,"Art, Reading, History",100,High,0.65,Optimistic,185,20,2,10,75,0.3,2,Early Morning,Relationship Formed,55,165,65.0,Taurus,Curvy,Serious Relationship
+Genderfluid,Lesbian,Remote Area,Middle,High School,"Coding, Tech, Music",270,Extreme User,0.4,Balanced,50,13,4,480,10,0.55,19,Late Night,Ghosted,30,170,68.7,Gemini,Muscular,Networking
+Female,Pansexual,Urban,Lower-Middle,Associate’s,"Binge-Watching, Gaming, Tattoos",10,Very Low,0.7,Swipe Maniac,125,26,3,30,80,0.2,23,After Midnight,Blocked,45,185,85.5,Cancer,Slim,Exploring
+Transgender,Queer,Small Town,High,PhD,"DIY, Motorcycling, Pets",160,Addicted,0.3,Balanced,170,19,6,150,5,0.45,16,Afternoon,Chat Ignored,22,160,57.4,Leo,Athletic,Casual Dating
+Prefer Not to Say,Asexual,Rural,Upper-Middle,Master’s,"Investing, Yoga, Stand-up Comedy",240,Extreme User,0.5,Optimistic,145,22,1,400,75,0.3,17,Evening,Mutual Match,39,175,75.0,Virgo,Muscular,Hookups
+Male,Bisexual,Metro,Low,Bachelor’s,"Social Activism, Art, Binge-Watching",100,High,0.65,Optimistic,185,15,5,10,10,0.55,2,Early Morning,One-sided Like,30,190,95.0,Libra,Slim,Friends Only
+Non-binary,Demisexual,Suburban,Middle,Postdoc,"Traveling, Photography, Cars",270,Extreme User,0.4,Balanced,50,28,2,480,80,0.2,19,Late Night,Date Happened,45,155,54.9,Scorpio,Curvy,Serious Relationship
+Genderfluid,Gay,Remote Area,Very High,MBA,"Gardening, Music, Meditation",10,Very Low,0.7,Swipe Maniac,125,13,4,30,5,0.45,23,After Midnight,Relationship Formed,35,170,68.7,Sagittarius,Athletic,Networking
+Female,Pansexual,Urban,Low,High School,"History, Gaming, DIY",160,Addicted,0.3,Balanced,170,26,3,150,75,0.3,16,Afternoon,Ghosted,52,185,85.5,Capricorn,Muscular,Exploring
+Transgender,Straight,Small Town,Upper-Middle,Associate’s,"Pets, Yoga, Investing",240,Extreme User,0.5,Optimistic,145,19,6,400,10,0.55,17,Evening,Blocked,30,160,57.4,Aquarius,Slim,Casual Dating
+Prefer Not to Say,Queer,Rural,Middle,PhD,"Running, Clubbing, Fashion",100,High,0.65,Optimistic,185,22,1,10,80,0.2,2,Early Morning,Chat Ignored,45,175,75.0,Pisces,Curvy,Hookups
+Male,Lesbian,Metro,Very Low,Master’s,"Stand-up Comedy, Traveling, Foodie",270,Extreme User,0.4,Balanced,50,15,5,480,5,0.45,19,Late Night,Mutual Match,35,170,68.7,Aries,Muscular,Friends Only
+Non-binary,Bisexual,Suburban,High,Bachelor’s,"Art, Reading, History",10,Very Low,0.7,Swipe Maniac,125,24,2,30,75,0.3,23,After Midnight,One-sided Like,52,185,85.5,Taurus,Slim,Serious Relationship
+Genderfluid,Pansexual,Remote Area,Lower-Middle,Postdoc,"Coding, Tech, Music",160,Addicted,0.3,Balanced,170,18,4,150,10,0.55,16,Afternoon,Date Happened,30,160,57.4,Gemini,Curvy,Networking
+Female,Gay,Urban,Middle,MBA,"Binge-Watching, Gaming, Tattoos",240,Extreme User,0.5,Optimistic,145,20,3,400,80,0.2,17,Evening,Relationship Formed,45,175,75.0,Cancer,Muscular,Exploring
+Transgender,Asexual,Small Town,Low,High School,"DIY, Motorcycling, Pets",100,High,0.65,Optimistic,185,13,6,10,5,0.45,2,Early Morning,Ghosted,35,170,68.7,Leo,Slim,Casual Dating
+Prefer Not to Say,Demisexual,Rural,Upper-Middle,Associate’s,"Investing, Yoga, Stand-up Comedy",270,Extreme User,0.4,Balanced,50,26,1,480,75,0.3,19,Late Night,Blocked,52,185,85.5,Virgo,Curvy,Hookups
+Male,Straight,Metro,Very High,PhD,"Social Activism, Art, Binge-Watching",10,Very Low,0.7,Swipe Maniac,125,19,5,30,10,0.55,23,After Midnight,Chat Ignored,30,160,57.4,Libra,Muscular,Friends Only
+Non-binary,Pansexual,Suburban,Middle,Master’s,"Traveling, Photography, Cars",160,Addicted,0.3,Balanced,170,22,2,150,80,0.2,16,Afternoon,Mutual Match,45,175,75.0,Scorpio,Slim,Serious Relationship
+Genderfluid,Queer,Remote Area,Low,Bachelor’s,"Gardening, Music, Meditation",240,Extreme User,0.5,Optimistic,145,15,4,400,5,0.45,17,Evening,One-sided Like,35,170,68.7,Sagittarius,Curvy,Networking
+Female,Lesbian,Urban,Very High,Postdoc,"History, Gaming, DIY",100,High,0.65,Optimistic,185,24,3,10,75,0.3,2,Early Morning,Date Happened,52,185,85.5,Capricorn,Muscular,Exploring
+Transgender,Straight,Small Town,Upper-Middle,MBA,"Pets, Yoga, Investing",270,Extreme User,0.4,Balanced,50,18,6,480,10,0.55,19,Late Night,Relationship Formed,30,160,57.4,Aquarius,Slim,Casual Dating
+Prefer Not to Say,Asexual,Rural,Middle,High School,"Running, Clubbing, Fashion",10,Very Low,0.7,Swipe Maniac,125,20,1,30,80,0.2,23,After Midnight,Ghosted,45,175,75.0,Pisces,Curvy,Hookups
+Male,Demisexual,Metro,Low,Associate’s,"Stand-up Comedy, Traveling, Foodie",160,Addicted,0.3,Balanced,170,13,5,150,5,0.45,16,Afternoon,Blocked,35,170,68.7,Aries,Muscular,Friends Only
+Non-binary,Pansexual,Suburban,Very High,PhD,"Art, Reading, History",240,Extreme User,0.5,Optimistic,145,26,2,400,75,0.3,17,Evening,Chat Ignored,52,185,85.5,Taurus,Slim,Serious Relationship
+Genderfluid,Bisexual,Remote Area,Middle,Master’s,"Coding, Tech, Music",100,High,0.65,Optimistic,185,19,4,10,10,0.55,2,Early Morning,Mutual Match,30,160,57.4,Gemini,Curvy,Networking
+Female,Gay,Urban,Lower-Middle,Bachelor’s,"Binge-Watching, Gaming, Tattoos",270,Extreme User,0.4,Balanced,50,22,3,480,80,0.2,19,Late Night,One-sided Like,45,175,75.0,Cancer,Muscular,Exploring
+Transgender,Pansexual,Small Town,Low,Postdoc,"DIY, Motorcycling, Pets",10,Very Low,0.7,Swipe Maniac,125,15,6,30,5,0.45,23,After Midnight,Date Happened,35,170,68.7,Leo,Slim,Casual Dating
+Prefer Not to Say,Straight,Rural,Upper-Middle,MBA,"Investing, Yoga, Stand-up Comedy",160,Addicted,0.3,Balanced,170,24,1,150,75,0.3,16,Afternoon,Relationship Formed,52,185,85.5,Virgo,Muscular,Hookups
+Male,Lesbian,Metro,Middle,High School,"Social Activism, Art, Binge-Watching",240,Extreme User,0.5,Optimistic,145,18,5,400,10,0.55,17,Evening,Ghosted,30,160,57.4,Libra,Slim,Friends Only
+Non-binary,Queer,Suburban,Very Low,Associate’s,"Traveling, Photography, Cars",100,High,0.65,Optimistic,185,20,2,10,80,0.2,2,Early Morning,Blocked,45,175,75.0,Scorpio,Curvy,Serious Relationship
+Genderfluid,Asexual,Remote Area,High,PhD,"Gardening, Music, Meditation",270,Extreme User,0.4,Balanced,50,13,4,480,5,0.45,19,Late Night,Chat Ignored,35,170,68.7,Sagittarius,Muscular,Networking
+Female,Bisexual,Urban,Middle,Master’s,"History, Gaming, DIY",10,Very Low,0.7,Swipe Maniac,125,26,3,30,75,0.3,23,After Midnight,Mutual Match,52,185,85.5,Capricorn,Slim,Exploring
+Transgender,Demisexual,Small Town,Upper-Middle,Bachelor’s,"Pets, Yoga, Investing",160,Addicted,0.3,Balanced,170,19,6,150,10,0.55,16,Afternoon,One-sided Like,30,160,57.4,Aquarius,Curvy,Casual Dating
+Prefer Not to Say,Pansexual,Metro,Low,Postdoc,"Running, Clubbing, Fashion",240,Extreme User,0.5,Optimistic,145,22,1,400,80,0.2,17,Evening,Date Happened,45,175,75.0,Pisces,Muscular,Hookups
+Male,Gay,Rural,Very High,MBA,"Stand-up Comedy, Traveling, Foodie",100,High,0.65,Optimistic,185,15,5,10,5,0.45,2,Early Morning,Relationship Formed,35,170,68.7,Aries,Slim,Friends Only
+Non-binary,Straight,Suburban,Middle,High School,"Art, Reading, History",270,Extreme User,0.4,Balanced,50,28,2,480,75,0.3,19,Late Night,Ghosted,52,185,85.5,Taurus,Muscular,Serious Relationship
+Genderfluid,Lesbian,Remote Area,Lower-Middle,Associate’s,"Coding, Tech, Music",10,Very Low,0.7,Swipe Maniac,125,13,4,30,10,0.55,23,After Midnight,Blocked,30,160,57.4,Gemini,Slim,Networking
+Female,Pansexual,Urban,High,PhD,"Binge-Watching, Gaming, Tattoos",160,Addicted,0.3,Balanced,170,26,3,150,80,0.2,16,Afternoon,Chat Ignored,45,175,75.0,Cancer,Curvy,Exploring
+Transgender,Queer,Small Town,Middle,Master’s,"DIY, Motorcycling, Pets",240,Extreme User,0.5,Optimistic,145,19,6,400,5,0.45,17,Evening,Mutual Match,35,170,68.7,Leo,Muscular,Casual Dating
+Prefer Not to Say,Asexual,Rural,Upper-Middle,Bachelor’s,"Investing, Yoga, Stand-up Comedy",100,High,0.65,Optimistic,185,22,1,10,75,0.3,2,Early Morning,One-sided Like,52,185,85.5,Virgo,Slim,Friends Only
+Male,Demisexual,Metro,Low,Postdoc,"Social Activism, Art, Binge-Watching",270,Extreme User,0.4,Balanced,50,15,5,480,10,0.55,19,Late Night,Date Happened,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Very High,MBA,"Traveling, Photography, Cars",10,Very Low,0.7,Swipe Maniac,125,24,2,30,80,0.2,23,After Midnight,Relationship Formed,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Gay,Remote Area,Middle,High School,"Gardening, Music, Meditation",160,Addicted,0.3,Balanced,170,18,4,150,5,0.45,16,Afternoon,Ghosted,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Lesbian,Urban,Lower-Middle,Associate’s,"History, Gaming, DIY",240,Extreme User,0.5,Optimistic,145,20,3,400,75,0.3,17,Evening,Blocked,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,PhD,"Pets, Yoga, Investing",100,High,0.65,Optimistic,185,13,6,10,10,0.55,2,Early Morning,Chat Ignored,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,Master’s,"Running, Clubbing, Fashion",270,Extreme User,0.4,Balanced,50,26,1,480,80,0.2,19,Late Night,Mutual Match,45,175,75.0,Pisces,Slim,Friends Only
+Male,Bisexual,Metro,Middle,Bachelor’s,"Stand-up Comedy, Traveling, Foodie",10,Very Low,0.7,Swipe Maniac,125,19,5,30,5,0.45,23,After Midnight,One-sided Like,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Asexual,Suburban,High,Postdoc,"Art, Reading, History",160,Addicted,0.3,Balanced,170,22,2,150,75,0.3,16,Afternoon,Date Happened,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Demisexual,Remote Area,Very High,MBA,"Coding, Tech, Music",240,Extreme User,0.5,Optimistic,145,15,4,400,10,0.55,17,Evening,Relationship Formed,30,160,57.4,Gemini,Slim,Exploring
+Female,Queer,Urban,Middle,High School,"Binge-Watching, Gaming, Tattoos",100,High,0.65,Optimistic,185,24,3,10,80,0.2,2,Early Morning,Ghosted,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Lesbian,Small Town,Lower-Middle,Associate’s,"DIY, Motorcycling, Pets",270,Extreme User,0.4,Balanced,50,18,6,480,5,0.45,19,Late Night,Blocked,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Pansexual,Rural,Upper-Middle,PhD,"Investing, Yoga, Stand-up Comedy",10,Very Low,0.7,Swipe Maniac,125,20,1,30,75,0.3,23,After Midnight,Chat Ignored,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Low,Master’s,"Social Activism, Art, Binge-Watching",160,Addicted,0.3,Balanced,170,13,5,150,10,0.55,16,Afternoon,Mutual Match,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Asexual,Suburban,Middle,Bachelor’s,"Traveling, Photography, Cars",240,Extreme User,0.5,Optimistic,145,26,2,400,80,0.2,17,Evening,One-sided Like,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Demisexual,Remote Area,Very High,Postdoc,"Gardening, Music, Meditation",100,High,0.65,Optimistic,185,19,4,10,5,0.45,2,Early Morning,Date Happened,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Queer,Urban,Low,MBA,"History, Gaming, DIY",270,Extreme User,0.4,Balanced,50,22,3,480,75,0.3,19,Late Night,Relationship Formed,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,High School,"Pets, Yoga, Investing",10,Very Low,0.7,Swipe Maniac,125,15,6,30,10,0.55,23,After Midnight,Ghosted,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Middle,Associate’s,"Running, Clubbing, Fashion",160,Addicted,0.3,Balanced,170,24,1,150,80,0.2,16,Afternoon,Blocked,45,175,75.0,Pisces,Slim,Friends Only
+Male,Lesbian,Metro,Very High,PhD,"Stand-up Comedy, Traveling, Foodie",240,Extreme User,0.5,Optimistic,145,18,5,400,5,0.45,17,Evening,Chat Ignored,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Bisexual,Suburban,Low,Master’s,"Art, Reading, History",100,High,0.65,Optimistic,185,20,2,10,75,0.3,2,Early Morning,Mutual Match,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Pansexual,Remote Area,Middle,Bachelor’s,"Coding, Tech, Music",270,Extreme User,0.4,Balanced,50,13,4,480,10,0.55,19,Late Night,One-sided Like,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,Postdoc,"Binge-Watching, Gaming, Tattoos",10,Very Low,0.7,Swipe Maniac,125,26,3,30,80,0.2,23,After Midnight,Date Happened,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Very Low,MBA,"DIY, Motorcycling, Pets",160,Addicted,0.3,Balanced,170,19,6,150,5,0.45,16,Afternoon,Relationship Formed,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,High,High School,"Investing, Yoga, Stand-up Comedy",240,Extreme User,0.5,Optimistic,145,22,1,400,75,0.3,17,Evening,Ghosted,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,Associate’s,"Social Activism, Art, Binge-Watching",100,High,0.65,Optimistic,185,15,5,10,10,0.55,2,Early Morning,Blocked,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Very High,PhD,"Traveling, Photography, Cars",270,Extreme User,0.4,Balanced,50,28,2,480,80,0.2,19,Late Night,Chat Ignored,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Gay,Remote Area,Low,Master’s,"Gardening, Music, Meditation",10,Very Low,0.7,Swipe Maniac,125,13,4,30,5,0.45,23,After Midnight,Mutual Match,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Lesbian,Urban,Middle,Bachelor’s,"History, Gaming, DIY",160,Addicted,0.3,Balanced,170,26,3,150,75,0.3,16,Afternoon,One-sided Like,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,Postdoc,"Pets, Yoga, Investing",240,Extreme User,0.5,Optimistic,145,19,6,400,10,0.55,17,Evening,Date Happened,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Asexual,Rural,Very Low,MBA,"Running, Clubbing, Fashion",100,High,0.65,Optimistic,185,22,1,10,80,0.2,2,Early Morning,Relationship Formed,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,High,High School,"Stand-up Comedy, Traveling, Foodie",270,Extreme User,0.4,Balanced,50,15,5,480,5,0.45,19,Late Night,Ghosted,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,Associate’s,"Art, Reading, History",10,Very Low,0.7,Swipe Maniac,125,24,2,30,75,0.3,23,After Midnight,Blocked,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Upper-Middle,PhD,"Coding, Tech, Music",160,Addicted,0.3,Balanced,170,18,4,150,10,0.55,16,Afternoon,Chat Ignored,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Low,Master’s,"Binge-Watching, Gaming, Tattoos",240,Extreme User,0.5,Optimistic,145,20,3,400,80,0.2,17,Evening,Mutual Match,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Very High,Bachelor’s,"DIY, Motorcycling, Pets",100,High,0.65,Optimistic,185,13,6,10,5,0.45,2,Early Morning,One-sided Like,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Middle,Postdoc,"Investing, Yoga, Stand-up Comedy",270,Extreme User,0.4,Balanced,50,26,1,480,75,0.3,19,Late Night,Date Happened,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Upper-Middle,MBA,"Social Activism, Art, Binge-Watching",10,Very Low,0.7,Swipe Maniac,125,19,5,30,10,0.55,23,After Midnight,Relationship Formed,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,High School,"Traveling, Photography, Cars",160,Addicted,0.3,Balanced,170,22,2,150,80,0.2,16,Afternoon,Ghosted,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,Very Low,Associate’s,"Gardening, Music, Meditation",240,Extreme User,0.5,Optimistic,145,15,4,400,5,0.45,17,Evening,Blocked,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Very High,PhD,"History, Gaming, DIY",100,High,0.65,Optimistic,185,24,3,10,75,0.3,2,Early Morning,Chat Ignored,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Middle,Master’s,"Pets, Yoga, Investing",270,Extreme User,0.4,Balanced,50,18,6,480,10,0.55,19,Late Night,Mutual Match,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Upper-Middle,Bachelor’s,"Running, Clubbing, Fashion",10,Very Low,0.7,Swipe Maniac,125,20,1,30,80,0.2,23,After Midnight,One-sided Like,45,175,75.0,Pisces,Slim,Friends Only
+Male,Gay,Metro,Low,Postdoc,"Stand-up Comedy, Traveling, Foodie",160,Addicted,0.3,Balanced,170,13,5,150,5,0.45,16,Afternoon,Date Happened,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Bisexual,Suburban,Very High,MBA,"Art, Reading, History",240,Extreme User,0.5,Optimistic,145,26,2,400,75,0.3,17,Evening,Relationship Formed,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Pansexual,Remote Area,Middle,High School,"Coding, Tech, Music",100,High,0.65,Optimistic,185,19,4,10,10,0.55,2,Early Morning,Ghosted,30,160,57.4,Gemini,Slim,Exploring
+Female,Queer,Urban,Upper-Middle,Associate’s,"Binge-Watching, Gaming, Tattoos",270,Extreme User,0.4,Balanced,50,22,3,480,80,0.2,19,Late Night,Blocked,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Lesbian,Small Town,Low,PhD,"DIY, Motorcycling, Pets",10,Very Low,0.7,Swipe Maniac,125,15,6,30,5,0.45,23,After Midnight,Chat Ignored,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Pansexual,Rural,Upper-Middle,Master’s,"Investing, Yoga, Stand-up Comedy",160,Addicted,0.3,Balanced,170,24,1,150,75,0.3,16,Afternoon,Mutual Match,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,Bachelor’s,"Social Activism, Art, Binge-Watching",240,Extreme User,0.5,Optimistic,145,18,5,400,10,0.55,17,Evening,One-sided Like,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Asexual,Suburban,Very Low,Postdoc,"Traveling, Photography, Cars",100,High,0.65,Optimistic,185,20,2,10,80,0.2,2,Early Morning,Date Happened,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Demisexual,Remote Area,High,MBA,"Gardening, Music, Meditation",270,Extreme User,0.4,Balanced,50,13,4,480,5,0.45,19,Late Night,Relationship Formed,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,High School,"History, Gaming, DIY",10,Very Low,0.7,Swipe Maniac,125,26,3,30,75,0.3,23,After Midnight,Ghosted,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,Associate’s,"Pets, Yoga, Investing",160,Addicted,0.3,Balanced,170,19,6,150,10,0.55,16,Afternoon,Blocked,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Asexual,Rural,Very High,PhD,"Running, Clubbing, Fashion",240,Extreme User,0.5,Optimistic,145,22,1,400,80,0.2,17,Evening,Chat Ignored,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Low,Master’s,"Stand-up Comedy, Traveling, Foodie",100,High,0.65,Optimistic,185,15,5,10,5,0.45,2,Early Morning,Mutual Match,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,Bachelor’s,"Art, Reading, History",270,Extreme User,0.4,Balanced,50,28,2,480,75,0.3,19,Late Night,One-sided Like,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Upper-Middle,Postdoc,"Coding, Tech, Music",10,Very Low,0.7,Swipe Maniac,125,13,4,30,10,0.55,23,After Midnight,Date Happened,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Low,MBA,"Binge-Watching, Gaming, Tattoos",160,Addicted,0.3,Balanced,170,26,3,150,80,0.2,16,Afternoon,Relationship Formed,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Very High,High School,"DIY, Motorcycling, Pets",240,Extreme User,0.5,Optimistic,145,19,6,400,5,0.45,17,Evening,Ghosted,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Middle,Associate’s,"Investing, Yoga, Stand-up Comedy",100,High,0.65,Optimistic,185,22,1,10,75,0.3,2,Early Morning,Blocked,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Upper-Middle,PhD,"Social Activism, Art, Binge-Watching",270,Extreme User,0.4,Balanced,50,15,5,480,10,0.55,19,Late Night,Chat Ignored,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,Master’s,"Traveling, Photography, Cars",10,Very Low,0.7,Swipe Maniac,125,24,2,30,80,0.2,23,After Midnight,Mutual Match,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,Bachelor’s,"Gardening, Music, Meditation",160,Addicted,0.3,Balanced,170,18,4,150,5,0.45,16,Afternoon,One-sided Like,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,Postdoc,"History, Gaming, DIY",240,Extreme User,0.5,Optimistic,145,20,3,400,75,0.3,17,Evening,Date Happened,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,MBA,"Pets, Yoga, Investing",100,High,0.65,Optimistic,185,13,6,10,10,0.55,2,Early Morning,Relationship Formed,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Asexual,Rural,Low,High School,"Running, Clubbing, Fashion",270,Extreme User,0.4,Balanced,50,26,1,480,80,0.2,19,Late Night,Ghosted,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Middle,Associate’s,"Stand-up Comedy, Traveling, Foodie",10,Very Low,0.7,Swipe Maniac,125,19,5,30,5,0.45,23,After Midnight,Blocked,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Very High,PhD,"Art, Reading, History",160,Addicted,0.3,Balanced,170,22,2,150,75,0.3,16,Afternoon,Chat Ignored,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Low,Master’s,"Coding, Tech, Music",240,Extreme User,0.5,Optimistic,145,15,4,400,10,0.55,17,Evening,Mutual Match,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,Bachelor’s,"Binge-Watching, Gaming, Tattoos",100,High,0.65,Optimistic,185,24,3,10,80,0.2,2,Early Morning,One-sided Like,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,Postdoc,"DIY, Motorcycling, Pets",270,Extreme User,0.4,Balanced,50,18,6,480,5,0.45,19,Late Night,Date Happened,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,MBA,"Investing, Yoga, Stand-up Comedy",10,Very Low,0.7,Swipe Maniac,125,20,1,30,75,0.3,23,After Midnight,Relationship Formed,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Low,High School,"Social Activism, Art, Binge-Watching",160,Addicted,0.3,Balanced,170,13,5,150,10,0.55,16,Afternoon,Ghosted,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Upper-Middle,Associate’s,"Traveling, Photography, Cars",240,Extreme User,0.5,Optimistic,145,26,2,400,80,0.2,17,Evening,Blocked,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,Middle,PhD,"Gardening, Music, Meditation",100,High,0.65,Optimistic,185,19,4,10,5,0.45,2,Early Morning,Chat Ignored,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Very High,Master’s,"History, Gaming, DIY",270,Extreme User,0.4,Balanced,50,22,3,480,75,0.3,19,Late Night,Mutual Match,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Low,Bachelor’s,"Pets, Yoga, Investing",10,Very Low,0.7,Swipe Maniac,125,15,6,30,10,0.55,23,After Midnight,One-sided Like,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Upper-Middle,Postdoc,"Running, Clubbing, Fashion",160,Addicted,0.3,Balanced,170,24,1,150,80,0.2,16,Afternoon,Date Happened,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Middle,MBA,"Stand-up Comedy, Traveling, Foodie",240,Extreme User,0.5,Optimistic,145,18,5,400,5,0.45,17,Evening,Relationship Formed,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Low,High School,"Art, Reading, History",100,High,0.65,Optimistic,185,20,2,10,75,0.3,2,Early Morning,Ghosted,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Very High,Associate’s,"Coding, Tech, Music",270,Extreme User,0.4,Balanced,50,13,4,480,10,0.55,19,Late Night,Blocked,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Middle,PhD,"Binge-Watching, Gaming, Tattoos",10,Very Low,0.7,Swipe Maniac,125,26,3,30,80,0.2,23,After Midnight,Chat Ignored,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Upper-Middle,Master’s,"DIY, Motorcycling, Pets",160,Addicted,0.3,Balanced,170,19,6,150,5,0.45,16,Afternoon,Mutual Match,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Low,Bachelor’s,"Investing, Yoga, Stand-up Comedy",240,Extreme User,0.5,Optimistic,145,22,1,400,75,0.3,17,Evening,One-sided Like,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Very High,Postdoc,"Social Activism, Art, Binge-Watching",100,High,0.65,Optimistic,185,15,5,10,10,0.55,2,Early Morning,Date Happened,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Middle,MBA,"Traveling, Photography, Cars",270,Extreme User,0.4,Balanced,50,28,2,480,80,0.2,19,Late Night,Relationship Formed,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,Upper-Middle,High School,"Gardening, Music, Meditation",10,Very Low,0.7,Swipe Maniac,125,13,4,30,5,0.45,23,After Midnight,Ghosted,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Low,Associate’s,"History, Gaming, DIY",160,Addicted,0.3,Balanced,170,26,3,150,75,0.3,16,Afternoon,Blocked,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Middle,PhD,"Pets, Yoga, Investing",240,Extreme User,0.5,Optimistic,145,19,6,400,10,0.55,17,Evening,Chat Ignored,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Very High,Master’s,"Running, Clubbing, Fashion",100,High,0.65,Optimistic,185,22,1,10,80,0.2,2,Early Morning,Mutual Match,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Middle,Bachelor’s,"Stand-up Comedy, Traveling, Foodie",270,Extreme User,0.4,Balanced,50,15,5,480,5,0.45,19,Late Night,One-sided Like,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Low,Postdoc,"Art, Reading, History",10,Very Low,0.7,Swipe Maniac,125,24,2,30,75,0.3,23,After Midnight,Date Happened,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,High,MBA,"Coding, Tech, Music",160,Addicted,0.3,Balanced,170,18,4,150,10,0.55,16,Afternoon,Relationship Formed,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,High School,"Binge-Watching, Gaming, Tattoos",240,Extreme User,0.5,Optimistic,145,20,3,400,80,0.2,17,Evening,Ghosted,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,Associate’s,"DIY, Motorcycling, Pets",100,High,0.65,Optimistic,185,13,6,10,5,0.45,2,Early Morning,Blocked,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Low,PhD,"Investing, Yoga, Stand-up Comedy",270,Extreme User,0.4,Balanced,50,26,1,480,75,0.3,19,Late Night,Chat Ignored,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Very High,Master’s,"Social Activism, Art, Binge-Watching",10,Very Low,0.7,Swipe Maniac,125,19,5,30,10,0.55,23,After Midnight,Mutual Match,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Middle,Bachelor’s,"Traveling, Photography, Cars",160,Addicted,0.3,Balanced,170,22,2,150,80,0.2,16,Afternoon,One-sided Like,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,Upper-Middle,Postdoc,"Gardening, Music, Meditation",240,Extreme User,0.5,Optimistic,145,15,4,400,5,0.45,17,Evening,Date Happened,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Low,MBA,"History, Gaming, DIY",100,High,0.65,Optimistic,185,24,3,10,75,0.3,2,Early Morning,Relationship Formed,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Middle,High School,"Pets, Yoga, Investing",270,Extreme User,0.4,Balanced,50,18,6,480,10,0.55,19,Late Night,Ghosted,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Upper-Middle,Associate’s,"Running, Clubbing, Fashion",10,Very Low,0.7,Swipe Maniac,125,20,1,30,80,0.2,23,After Midnight,Blocked,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very Low,PhD,"Stand-up Comedy, Traveling, Foodie",160,Addicted,0.3,Balanced,170,13,5,150,5,0.45,16,Afternoon,Chat Ignored,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,Master’s,"Art, Reading, History",240,Extreme User,0.5,Optimistic,145,26,2,400,75,0.3,17,Evening,Mutual Match,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Low,Bachelor’s,"Coding, Tech, Music",100,High,0.65,Optimistic,185,19,4,10,10,0.55,2,Early Morning,One-sided Like,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,Postdoc,"Binge-Watching, Gaming, Tattoos",270,Extreme User,0.4,Balanced,50,22,3,480,80,0.2,19,Late Night,Date Happened,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,MBA,"DIY, Motorcycling, Pets",10,Very Low,0.7,Swipe Maniac,125,15,6,30,5,0.45,23,After Midnight,Relationship Formed,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,High School,"Investing, Yoga, Stand-up Comedy",160,Addicted,0.3,Balanced,170,24,1,150,75,0.3,16,Afternoon,Ghosted,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,Associate’s,"Social Activism, Art, Binge-Watching",240,Extreme User,0.5,Optimistic,145,18,5,400,10,0.55,17,Evening,Blocked,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,PhD,"Traveling, Photography, Cars",100,High,0.65,Optimistic,185,20,2,10,80,0.2,2,Early Morning,Chat Ignored,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,Upper-Middle,Master’s,"Gardening, Music, Meditation",270,Extreme User,0.4,Balanced,50,13,4,480,5,0.45,19,Late Night,Mutual Match,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,Bachelor’s,"History, Gaming, DIY",10,Very Low,0.7,Swipe Maniac,125,26,3,30,75,0.3,23,After Midnight,One-sided Like,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Very High,Postdoc,"Pets, Yoga, Investing",160,Addicted,0.3,Balanced,170,19,6,150,10,0.55,16,Afternoon,Date Happened,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Middle,MBA,"Running, Clubbing, Fashion",240,Extreme User,0.5,Optimistic,145,22,1,400,80,0.2,17,Evening,Relationship Formed,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Low,High School,"Stand-up Comedy, Traveling, Foodie",100,High,0.65,Optimistic,185,15,5,10,5,0.45,2,Early Morning,Ghosted,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Upper-Middle,Associate’s,"Art, Reading, History",270,Extreme User,0.4,Balanced,50,28,2,480,75,0.3,19,Late Night,Blocked,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Middle,PhD,"Coding, Tech, Music",10,Very Low,0.7,Swipe Maniac,125,13,4,30,10,0.55,23,After Midnight,Chat Ignored,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Very High,Master’s,"Binge-Watching, Gaming, Tattoos",160,Addicted,0.3,Balanced,170,26,3,150,80,0.2,16,Afternoon,Mutual Match,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Low,Bachelor’s,"DIY, Motorcycling, Pets",240,Extreme User,0.5,Optimistic,145,19,6,400,5,0.45,17,Evening,One-sided Like,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Upper-Middle,Postdoc,"Investing, Yoga, Stand-up Comedy",100,High,0.65,Optimistic,185,22,1,10,75,0.3,2,Early Morning,Date Happened,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,MBA,"Social Activism, Art, Binge-Watching",270,Extreme User,0.4,Balanced,50,15,5,480,10,0.55,19,Late Night,Relationship Formed,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,High School,"Traveling, Photography, Cars",10,Very Low,0.7,Swipe Maniac,125,24,2,30,80,0.2,23,After Midnight,Ghosted,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,Associate’s,"Gardening, Music, Meditation",160,Addicted,0.3,Balanced,170,18,4,150,5,0.45,16,Afternoon,Blocked,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,PhD,"History, Gaming, DIY",240,Extreme User,0.5,Optimistic,145,20,3,400,75,0.3,17,Evening,Chat Ignored,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,Master’s,"Pets, Yoga, Investing",100,High,0.65,Optimistic,185,13,6,10,10,0.55,2,Early Morning,Mutual Match,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,Bachelor’s,"Running, Clubbing, Fashion",270,Extreme User,0.4,Balanced,50,26,1,480,80,0.2,19,Late Night,One-sided Like,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,Postdoc,"Stand-up Comedy, Traveling, Foodie",10,Very Low,0.7,Swipe Maniac,125,19,5,30,5,0.45,23,After Midnight,Date Happened,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,MBA,"Art, Reading, History",160,Addicted,0.3,Balanced,170,22,2,150,75,0.3,16,Afternoon,Relationship Formed,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Low,High School,"Coding, Tech, Music",240,Extreme User,0.5,Optimistic,145,15,4,400,10,0.55,17,Evening,Ghosted,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,Associate’s,"Binge-Watching, Gaming, Tattoos",100,High,0.65,Optimistic,185,24,3,10,80,0.2,2,Early Morning,Blocked,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,PhD,"DIY, Motorcycling, Pets",270,Extreme User,0.4,Balanced,50,18,6,480,5,0.45,19,Late Night,Chat Ignored,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,Master’s,"Investing, Yoga, Stand-up Comedy",10,Very Low,0.7,Swipe Maniac,125,20,1,30,75,0.3,23,After Midnight,Mutual Match,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,Bachelor’s,"Social Activism, Art, Binge-Watching",160,Addicted,0.3,Balanced,170,13,5,150,10,0.55,16,Afternoon,One-sided Like,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,Postdoc,"Traveling, Photography, Cars",240,Extreme User,0.5,Optimistic,145,26,2,400,80,0.2,17,Evening,Date Happened,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,MBA,"Gardening, Music, Meditation",100,High,0.65,Optimistic,185,19,4,10,5,0.45,2,Early Morning,Relationship Formed,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Very High,High School,"History, Gaming, DIY",270,Extreme User,0.4,Balanced,50,22,3,480,75,0.3,19,Late Night,Ghosted,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Middle,Associate’s,"Pets, Yoga, Investing",10,Very Low,0.7,Swipe Maniac,125,15,6,30,10,0.55,23,After Midnight,Blocked,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,PhD,"Running, Clubbing, Fashion",160,Addicted,0.3,Balanced,170,24,1,150,80,0.2,16,Afternoon,Chat Ignored,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very Low,Master’s,"Stand-up Comedy, Traveling, Foodie",240,Extreme User,0.5,Optimistic,145,18,5,400,5,0.45,17,Evening,Mutual Match,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Upper-Middle,Bachelor’s,"Art, Reading, History",100,High,0.65,Optimistic,185,20,2,10,75,0.3,2,Early Morning,One-sided Like,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Middle,Postdoc,"Coding, Tech, Music",270,Extreme User,0.4,Balanced,50,13,4,480,10,0.55,19,Late Night,Date Happened,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Low,MBA,"Binge-Watching, Gaming, Tattoos",10,Very Low,0.7,Swipe Maniac,125,26,3,30,80,0.2,23,After Midnight,Relationship Formed,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Very High,High School,"DIY, Motorcycling, Pets",160,Addicted,0.3,Balanced,170,19,6,150,5,0.45,16,Afternoon,Ghosted,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Middle,Associate’s,"Investing, Yoga, Stand-up Comedy",240,Extreme User,0.5,Optimistic,145,22,1,400,75,0.3,17,Evening,Blocked,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Upper-Middle,PhD,"Social Activism, Art, Binge-Watching",100,High,0.65,Optimistic,185,15,5,10,10,0.55,2,Early Morning,Chat Ignored,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,Master’s,"Traveling, Photography, Cars",270,Extreme User,0.4,Balanced,50,28,2,480,80,0.2,19,Late Night,Mutual Match,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,Bachelor’s,"Gardening, Music, Meditation",10,Very Low,0.7,Swipe Maniac,125,13,4,30,5,0.45,23,After Midnight,One-sided Like,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,Postdoc,"History, Gaming, DIY",160,Addicted,0.3,Balanced,170,26,3,150,75,0.3,16,Afternoon,Date Happened,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,MBA,"Pets, Yoga, Investing",240,Extreme User,0.5,Optimistic,145,19,6,400,10,0.55,17,Evening,Relationship Formed,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Asexual,Rural,Very Low,High School,"Running, Clubbing, Fashion",100,High,0.65,Optimistic,185,22,1,10,80,0.2,2,Early Morning,Ghosted,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Middle,Associate’s,"Stand-up Comedy, Traveling, Foodie",270,Extreme User,0.4,Balanced,50,15,5,480,5,0.45,19,Late Night,Blocked,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Low,PhD,"Art, Reading, History",10,Very Low,0.7,Swipe Maniac,125,24,2,30,75,0.3,23,After Midnight,Chat Ignored,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,High,Master’s,"Coding, Tech, Music",160,Addicted,0.3,Balanced,170,18,4,150,10,0.55,16,Afternoon,Mutual Match,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,Bachelor’s,"Binge-Watching, Gaming, Tattoos",240,Extreme User,0.5,Optimistic,145,20,3,400,80,0.2,17,Evening,One-sided Like,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,Postdoc,"DIY, Motorcycling, Pets",100,High,0.65,Optimistic,185,13,6,10,5,0.45,2,Early Morning,Date Happened,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Low,MBA,"Investing, Yoga, Stand-up Comedy",270,Extreme User,0.4,Balanced,50,26,1,480,75,0.3,19,Late Night,Relationship Formed,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Very High,High School,"Social Activism, Art, Binge-Watching",10,Very Low,0.7,Swipe Maniac,125,19,5,30,10,0.55,23,After Midnight,Ghosted,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Middle,Associate’s,"Traveling, Photography, Cars",160,Addicted,0.3,Balanced,170,22,2,150,80,0.2,16,Afternoon,Blocked,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,Upper-Middle,PhD,"Gardening, Music, Meditation",240,Extreme User,0.5,Optimistic,145,15,4,400,5,0.45,17,Evening,Chat Ignored,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Low,Master’s,"History, Gaming, DIY",100,High,0.65,Optimistic,185,24,3,10,75,0.3,2,Early Morning,Mutual Match,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Middle,Bachelor’s,"Pets, Yoga, Investing",270,Extreme User,0.4,Balanced,50,18,6,480,10,0.55,19,Late Night,One-sided Like,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,Postdoc,"Running, Clubbing, Fashion",10,Very Low,0.7,Swipe Maniac,125,20,1,30,80,0.2,23,After Midnight,Date Happened,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,MBA,"Stand-up Comedy, Traveling, Foodie",160,Addicted,0.3,Balanced,170,13,5,150,5,0.45,16,Afternoon,Relationship Formed,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,High School,"Art, Reading, History",240,Extreme User,0.5,Optimistic,145,26,2,400,75,0.3,17,Evening,Ghosted,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Upper-Middle,Associate’s,"Coding, Tech, Music",100,High,0.65,Optimistic,185,19,4,10,10,0.55,2,Early Morning,Blocked,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Low,PhD,"Binge-Watching, Gaming, Tattoos",270,Extreme User,0.4,Balanced,50,22,3,480,80,0.2,19,Late Night,Chat Ignored,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,Master’s,"DIY, Motorcycling, Pets",10,Very Low,0.7,Swipe Maniac,125,15,6,30,5,0.45,23,After Midnight,Mutual Match,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,Bachelor’s,"Investing, Yoga, Stand-up Comedy",160,Addicted,0.3,Balanced,170,24,1,150,75,0.3,16,Afternoon,One-sided Like,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,Postdoc,"Social Activism, Art, Binge-Watching",240,Extreme User,0.5,Optimistic,145,18,5,400,10,0.55,17,Evening,Date Happened,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,MBA,"Traveling, Photography, Cars",100,High,0.65,Optimistic,185,20,2,10,80,0.2,2,Early Morning,Relationship Formed,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,High School,"Gardening, Music, Meditation",270,Extreme User,0.4,Balanced,50,13,4,480,5,0.45,19,Late Night,Ghosted,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Upper-Middle,Associate’s,"History, Gaming, DIY",10,Very Low,0.7,Swipe Maniac,125,26,3,30,75,0.3,23,After Midnight,Blocked,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Middle,PhD,"Pets, Yoga, Investing",160,Addicted,0.3,Balanced,170,19,6,150,10,0.55,16,Afternoon,Chat Ignored,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,Master’s,"Running, Clubbing, Fashion",240,Extreme User,0.5,Optimistic,145,22,1,400,80,0.2,17,Evening,Mutual Match,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,Bachelor’s,"Stand-up Comedy, Traveling, Foodie",100,High,0.65,Optimistic,185,15,5,10,5,0.45,2,Early Morning,One-sided Like,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,Postdoc,"Art, Reading, History",270,Extreme User,0.4,Balanced,50,28,2,480,75,0.3,19,Late Night,Date Happened,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Upper-Middle,MBA,"Coding, Tech, Music",10,Very Low,0.7,Swipe Maniac,125,13,4,30,10,0.55,23,After Midnight,Relationship Formed,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Low,High School,"Binge-Watching, Gaming, Tattoos",160,Addicted,0.3,Balanced,170,26,3,150,80,0.2,16,Afternoon,Ghosted,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,Associate’s,"DIY, Motorcycling, Pets",240,Extreme User,0.5,Optimistic,145,19,6,400,5,0.45,17,Evening,Blocked,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,PhD,"Investing, Yoga, Stand-up Comedy",100,High,0.65,Optimistic,185,22,1,10,75,0.3,2,Early Morning,Chat Ignored,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,Master’s,"Social Activism, Art, Binge-Watching",270,Extreme User,0.4,Balanced,50,15,5,480,10,0.55,19,Late Night,Mutual Match,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,Bachelor’s,"Traveling, Photography, Cars",10,Very Low,0.7,Swipe Maniac,125,24,2,30,80,0.2,23,After Midnight,One-sided Like,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,Postdoc,"Gardening, Music, Meditation",160,Addicted,0.3,Balanced,170,18,4,150,5,0.45,16,Afternoon,Date Happened,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Upper-Middle,MBA,"History, Gaming, DIY",240,Extreme User,0.5,Optimistic,145,20,3,400,75,0.3,17,Evening,Relationship Formed,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Middle,High School,"Pets, Yoga, Investing",100,High,0.65,Optimistic,185,13,6,10,10,0.55,2,Early Morning,Ghosted,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,Associate’s,"Running, Clubbing, Fashion",270,Extreme User,0.4,Balanced,50,26,1,480,80,0.2,19,Late Night,Blocked,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,PhD,"Stand-up Comedy, Traveling, Foodie",10,Very Low,0.7,Swipe Maniac,125,19,5,30,5,0.45,23,After Midnight,Chat Ignored,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,Master’s,"Art, Reading, History",160,Addicted,0.3,Balanced,170,22,2,150,75,0.3,16,Afternoon,Mutual Match,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Upper-Middle,Bachelor’s,"Coding, Tech, Music",240,Extreme User,0.5,Optimistic,145,15,4,400,10,0.55,17,Evening,One-sided Like,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Low,Postdoc,"Binge-Watching, Gaming, Tattoos",100,High,0.65,Optimistic,185,24,3,10,80,0.2,2,Early Morning,Date Happened,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,MBA,"DIY, Motorcycling, Pets",270,Extreme User,0.4,Balanced,50,18,6,480,5,0.45,19,Late Night,Relationship Formed,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,High School,"Investing, Yoga, Stand-up Comedy",10,Very Low,0.7,Swipe Maniac,125,20,1,30,75,0.3,23,After Midnight,Ghosted,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,Associate’s,"Social Activism, Art, Binge-Watching",160,Addicted,0.3,Balanced,170,13,5,150,10,0.55,16,Afternoon,Blocked,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,PhD,"Traveling, Photography, Cars",240,Extreme User,0.5,Optimistic,145,26,2,400,80,0.2,17,Evening,Chat Ignored,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,Master’s,"Gardening, Music, Meditation",100,High,0.65,Optimistic,185,19,4,10,5,0.45,2,Early Morning,Mutual Match,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Upper-Middle,Bachelor’s,"History, Gaming, DIY",270,Extreme User,0.4,Balanced,50,22,3,480,75,0.3,19,Late Night,One-sided Like,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Middle,Postdoc,"Pets, Yoga, Investing",10,Very Low,0.7,Swipe Maniac,125,15,6,30,10,0.55,23,After Midnight,Date Happened,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,MBA,"Running, Clubbing, Fashion",160,Addicted,0.3,Balanced,170,24,1,150,80,0.2,16,Afternoon,Relationship Formed,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,High School,"Stand-up Comedy, Traveling, Foodie",240,Extreme User,0.5,Optimistic,145,18,5,400,5,0.45,17,Evening,Ghosted,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,Associate’s,"Art, Reading, History",100,High,0.65,Optimistic,185,20,2,10,75,0.3,2,Early Morning,Blocked,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Low,PhD,"Coding, Tech, Music",270,Extreme User,0.4,Balanced,50,13,4,480,10,0.55,19,Late Night,Chat Ignored,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,Master’s,"Binge-Watching, Gaming, Tattoos",10,Very Low,0.7,Swipe Maniac,125,26,3,30,80,0.2,23,After Midnight,Mutual Match,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,Bachelor’s,"DIY, Motorcycling, Pets",160,Addicted,0.3,Balanced,170,19,6,150,5,0.45,16,Afternoon,One-sided Like,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,Postdoc,"Investing, Yoga, Stand-up Comedy",240,Extreme User,0.5,Optimistic,145,22,1,400,75,0.3,17,Evening,Date Happened,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,MBA,"Social Activism, Art, Binge-Watching",100,High,0.65,Optimistic,185,15,5,10,10,0.55,2,Early Morning,Relationship Formed,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,High School,"Traveling, Photography, Cars",270,Extreme User,0.4,Balanced,50,28,2,480,80,0.2,19,Late Night,Ghosted,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,Associate’s,"Gardening, Music, Meditation",10,Very Low,0.7,Swipe Maniac,125,13,4,30,5,0.45,23,After Midnight,Blocked,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,PhD,"History, Gaming, DIY",160,Addicted,0.3,Balanced,170,26,3,150,75,0.3,16,Afternoon,Chat Ignored,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,Master’s,"Pets, Yoga, Investing",240,Extreme User,0.5,Optimistic,145,19,6,400,10,0.55,17,Evening,Mutual Match,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,Bachelor’s,"Running, Clubbing, Fashion",100,High,0.65,Optimistic,185,22,1,10,80,0.2,2,Early Morning,One-sided Like,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,Postdoc,"Stand-up Comedy, Traveling, Foodie",270,Extreme User,0.4,Balanced,50,15,5,480,5,0.45,19,Late Night,Date Happened,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,MBA,"Art, Reading, History",10,Very Low,0.7,Swipe Maniac,125,24,2,30,75,0.3,23,After Midnight,Relationship Formed,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Low,High School,"Coding, Tech, Music",160,Addicted,0.3,Balanced,170,18,4,150,10,0.55,16,Afternoon,Ghosted,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,Associate’s,"Binge-Watching, Gaming, Tattoos",240,Extreme User,0.5,Optimistic,145,20,3,400,80,0.2,17,Evening,Blocked,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,PhD,"DIY, Motorcycling, Pets",100,High,0.65,Optimistic,185,13,6,10,5,0.45,2,Early Morning,Chat Ignored,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,Master’s,"Investing, Yoga, Stand-up Comedy",270,Extreme User,0.4,Balanced,50,26,1,480,75,0.3,19,Late Night,Mutual Match,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,Bachelor’s,"Social Activism, Art, Binge-Watching",10,Very Low,0.7,Swipe Maniac,125,24,2,30,75,0.3,23,After Midnight,One-sided Like,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,Postdoc,"Traveling, Photography, Cars",160,Addicted,0.3,Balanced,170,22,2,150,80,0.2,16,Afternoon,Date Happened,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,MBA,"Gardening, Music, Meditation",240,Extreme User,0.5,Optimistic,145,15,4,400,5,0.45,17,Evening,Relationship Formed,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,High School,"History, Gaming, DIY",100,High,0.65,Optimistic,185,24,3,10,75,0.3,2,Early Morning,Ghosted,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,Associate’s,"Pets, Yoga, Investing",270,Extreme User,0.4,Balanced,50,18,6,480,10,0.55,19,Late Night,Blocked,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,PhD,"Running, Clubbing, Fashion",10,Very Low,0.7,Swipe Maniac,125,20,1,30,80,0.2,23,After Midnight,Chat Ignored,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,Master’s,"Stand-up Comedy, Traveling, Foodie",160,Addicted,0.3,Balanced,170,13,5,150,5,0.45,16,Afternoon,Mutual Match,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,Bachelor’s,"Art, Reading, History",240,Extreme User,0.5,Optimistic,145,26,2,400,75,0.3,17,Evening,One-sided Like,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Low,Postdoc,"Coding, Tech, Music",100,High,0.65,Optimistic,185,19,4,10,10,0.55,2,Early Morning,Date Happened,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,MBA,"Binge-Watching, Gaming, Tattoos",270,Extreme User,0.4,Balanced,50,22,3,480,80,0.2,19,Late Night,Relationship Formed,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,High School,"DIY, Motorcycling, Pets",10,Very Low,0.7,Swipe Maniac,125,15,6,30,5,0.45,23,After Midnight,Ghosted,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,Associate’s,"Investing, Yoga, Stand-up Comedy",160,Addicted,0.3,Balanced,170,24,1,150,75,0.3,16,Afternoon,Blocked,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,PhD,"Social Activism, Art, Binge-Watching",240,Extreme User,0.5,Optimistic,145,18,5,400,10,0.55,17,Evening,Chat Ignored,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,Master’s,"Traveling, Photography, Cars",100,High,0.65,Optimistic,185,20,2,10,80,0.2,2,Early Morning,Mutual Match,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,Bachelor’s,"Gardening, Music, Meditation",270,Extreme User,0.4,Balanced,50,13,4,480,5,0.45,19,Late Night,One-sided Like,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,Postdoc,"History, Gaming, DIY",10,Very Low,0.7,Swipe Maniac,125,26,3,30,75,0.3,23,After Midnight,Date Happened,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,MBA,"Pets, Yoga, Investing",160,Addicted,0.3,Balanced,170,19,6,150,10,0.55,16,Afternoon,Relationship Formed,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Asexual,Rural,Low,High School,"Running, Clubbing, Fashion",240,Extreme User,0.5,Optimistic,145,22,1,400,80,0.2,17,Evening,Ghosted,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,Associate’s,"Stand-up Comedy, Traveling, Foodie",100,High,0.65,Optimistic,185,15,5,10,5,0.45,2,Early Morning,Blocked,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,PhD,"Art, Reading, History",270,Extreme User,0.4,Balanced,50,28,2,480,75,0.3,19,Late Night,Chat Ignored,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Low,Master’s,"Coding, Tech, Music",10,Very Low,0.7,Swipe Maniac,125,13,4,30,10,0.55,23,After Midnight,Mutual Match,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,Bachelor’s,"Binge-Watching, Gaming, Tattoos",160,Addicted,0.3,Balanced,170,26,3,150,80,0.2,16,Afternoon,One-sided Like,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,Postdoc,"DIY, Motorcycling, Pets",240,Extreme User,0.5,Optimistic,145,19,6,400,5,0.45,17,Evening,Date Happened,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,MBA,"Investing, Yoga, Stand-up Comedy",100,High,0.65,Optimistic,185,22,1,10,75,0.3,2,Early Morning,Relationship Formed,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,High School,"Social Activism, Art, Binge-Watching",270,Extreme User,0.4,Balanced,50,15,5,480,10,0.55,19,Late Night,Ghosted,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,Associate’s,"Traveling, Photography, Cars",10,Very Low,0.7,Swipe Maniac,125,24,2,30,80,0.2,23,After Midnight,Blocked,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,PhD,"Gardening, Music, Meditation",160,Addicted,0.3,Balanced,170,18,4,150,5,0.45,16,Afternoon,Chat Ignored,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,Master’s,"History, Gaming, DIY",240,Extreme User,0.5,Optimistic,145,20,3,400,75,0.3,17,Evening,Mutual Match,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,Bachelor’s,"Pets, Yoga, Investing",100,High,0.65,Optimistic,185,13,6,10,10,0.55,2,Early Morning,One-sided Like,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,Postdoc,"Running, Clubbing, Fashion",270,Extreme User,0.4,Balanced,50,26,1,480,80,0.2,19,Late Night,Date Happened,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,MBA,"Stand-up Comedy, Traveling, Foodie",10,Very Low,0.7,Swipe Maniac,125,19,5,30,5,0.45,23,After Midnight,Relationship Formed,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,High School,"Art, Reading, History",160,Addicted,0.3,Balanced,170,22,2,150,75,0.3,16,Afternoon,Ghosted,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Low,Associate’s,"Coding, Tech, Music",240,Extreme User,0.5,Optimistic,145,15,4,400,10,0.55,17,Evening,Blocked,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,PhD,"Binge-Watching, Gaming, Tattoos",100,High,0.65,Optimistic,185,24,3,10,80,0.2,2,Early Morning,Chat Ignored,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,Master’s,"DIY, Motorcycling, Pets",270,Extreme User,0.4,Balanced,50,18,6,480,5,0.45,19,Late Night,Mutual Match,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,Bachelor’s,"Investing, Yoga, Stand-up Comedy",10,Very Low,0.7,Swipe Maniac,125,20,1,30,75,0.3,23,After Midnight,One-sided Like,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,Postdoc,"Social Activism, Art, Binge-Watching",160,Addicted,0.3,Balanced,170,13,5,150,10,0.55,16,Afternoon,Date Happened,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,MBA,"Traveling, Photography, Cars",240,Extreme User,0.5,Optimistic,145,26,2,400,80,0.2,17,Evening,Relationship Formed,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,High School,"Gardening, Music, Meditation",100,High,0.65,Optimistic,185,19,4,10,5,0.45,2,Early Morning,Ghosted,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,Associate’s,"History, Gaming, DIY",270,Extreme User,0.4,Balanced,50,22,3,480,75,0.3,19,Late Night,Blocked,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,PhD,"Pets, Yoga, Investing",10,Very Low,0.7,Swipe Maniac,125,15,6,30,10,0.55,23,After Midnight,Chat Ignored,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,Master’s,"Running, Clubbing, Fashion",160,Addicted,0.3,Balanced,170,24,1,150,80,0.2,16,Afternoon,Mutual Match,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,Bachelor’s,"Stand-up Comedy, Traveling, Foodie",240,Extreme User,0.5,Optimistic,145,18,5,400,5,0.45,17,Evening,One-sided Like,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,Postdoc,"Art, Reading, History",100,High,0.65,Optimistic,185,20,2,10,75,0.3,2,Early Morning,Date Happened,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Low,MBA,"Coding, Tech, Music",270,Extreme User,0.4,Balanced,50,13,4,480,10,0.55,19,Late Night,Relationship Formed,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,High School,"Binge-Watching, Gaming, Tattoos",10,Very Low,0.7,Swipe Maniac,125,26,3,30,80,0.2,23,After Midnight,Ghosted,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,Associate’s,"DIY, Motorcycling, Pets",160,Addicted,0.3,Balanced,170,19,6,150,5,0.45,16,Afternoon,Blocked,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,PhD,"Investing, Yoga, Stand-up Comedy",240,Extreme User,0.5,Optimistic,145,22,1,400,75,0.3,17,Evening,Chat Ignored,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,Master’s,"Social Activism, Art, Binge-Watching",100,High,0.65,Optimistic,185,15,5,10,10,0.55,2,Early Morning,Mutual Match,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,Bachelor’s,"Traveling, Photography, Cars",270,Extreme User,0.4,Balanced,50,28,2,480,80,0.2,19,Late Night,One-sided Like,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,Postdoc,"Gardening, Music, Meditation",10,Very Low,0.7,Swipe Maniac,125,13,4,30,5,0.45,23,After Midnight,Date Happened,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,MBA,"History, Gaming, DIY",160,Addicted,0.3,Balanced,170,26,3,150,75,0.3,16,Afternoon,Relationship Formed,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,High School,"Pets, Yoga, Investing",240,Extreme User,0.5,Optimistic,145,19,6,400,10,0.55,17,Evening,Ghosted,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,Associate’s,"Running, Clubbing, Fashion",100,High,0.65,Optimistic,185,22,1,10,80,0.2,2,Early Morning,Blocked,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,PhD,"Stand-up Comedy, Traveling, Foodie",270,Extreme User,0.4,Balanced,50,15,5,480,5,0.45,19,Late Night,Chat Ignored,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,Master’s,"Art, Reading, History",10,Very Low,0.7,Swipe Maniac,125,24,2,30,75,0.3,23,After Midnight,Mutual Match,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Low,Bachelor’s,"Coding, Tech, Music",160,Addicted,0.3,Balanced,170,18,4,150,10,0.55,16,Afternoon,One-sided Like,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,Postdoc,"Binge-Watching, Gaming, Tattoos",240,Extreme User,0.5,Optimistic,145,20,3,400,80,0.2,17,Evening,Date Happened,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,MBA,"DIY, Motorcycling, Pets",100,High,0.65,Optimistic,185,13,6,10,5,0.45,2,Early Morning,Relationship Formed,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,High School,"Investing, Yoga, Stand-up Comedy",270,Extreme User,0.4,Balanced,50,26,1,480,75,0.3,19,Late Night,Ghosted,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,Associate’s,"Social Activism, Art, Binge-Watching",10,Very Low,0.7,Swipe Maniac,125,19,5,30,10,0.55,23,After Midnight,Blocked,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,PhD,"Traveling, Photography, Cars",160,Addicted,0.3,Balanced,170,22,2,150,80,0.2,16,Afternoon,Chat Ignored,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,Master’s,"Gardening, Music, Meditation",240,Extreme User,0.5,Optimistic,145,15,4,400,5,0.45,17,Evening,Mutual Match,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,Bachelor’s,"History, Gaming, DIY",100,High,0.65,Optimistic,185,24,3,10,75,0.3,2,Early Morning,One-sided Like,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,Postdoc,"Pets, Yoga, Investing",270,Extreme User,0.4,Balanced,50,18,6,480,10,0.55,19,Late Night,Date Happened,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,MBA,"Running, Clubbing, Fashion",10,Very Low,0.7,Swipe Maniac,125,20,1,30,80,0.2,23,After Midnight,Relationship Formed,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,High School,"Stand-up Comedy, Traveling, Foodie",160,Addicted,0.3,Balanced,170,13,5,150,5,0.45,16,Afternoon,Ghosted,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,Associate’s,"Art, Reading, History",240,Extreme User,0.5,Optimistic,145,26,2,400,75,0.3,17,Evening,Blocked,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Low,PhD,"Coding, Tech, Music",100,High,0.65,Optimistic,185,19,4,10,10,0.55,2,Early Morning,Chat Ignored,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,Master’s,"Binge-Watching, Gaming, Tattoos",270,Extreme User,0.4,Balanced,50,22,3,480,80,0.2,19,Late Night,Mutual Match,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,Bachelor’s,"DIY, Motorcycling, Pets",10,Very Low,0.7,Swipe Maniac,125,15,6,30,5,0.45,23,After Midnight,One-sided Like,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,Postdoc,"Investing, Yoga, Stand-up Comedy",160,Addicted,0.3,Balanced,170,24,1,150,75,0.3,16,Afternoon,Date Happened,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,MBA,"Social Activism, Art, Binge-Watching",240,Extreme User,0.5,Optimistic,145,18,5,400,10,0.55,17,Evening,Relationship Formed,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,High School,"Traveling, Photography, Cars",100,High,0.65,Optimistic,185,20,2,10,80,0.2,2,Early Morning,Ghosted,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,Associate’s,"Gardening, Music, Meditation",270,Extreme User,0.4,Balanced,50,13,4,480,5,0.45,19,Late Night,Blocked,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,PhD,"History, Gaming, DIY",10,Very Low,0.7,Swipe Maniac,125,26,3,30,75,0.3,23,After Midnight,Chat Ignored,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,Master’s,"Pets, Yoga, Investing",160,Addicted,0.3,Balanced,170,19,6,150,10,0.55,16,Afternoon,Mutual Match,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,Bachelor’s,"Running, Clubbing, Fashion",240,Extreme User,0.5,Optimistic,145,22,1,400,80,0.2,17,Evening,One-sided Like,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,Postdoc,"Stand-up Comedy, Traveling, Foodie",100,High,0.65,Optimistic,185,15,5,10,5,0.45,2,Early Morning,Date Happened,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,MBA,"Art, Reading, History",270,Extreme User,0.4,Balanced,50,28,2,480,75,0.3,19,Late Night,Relationship Formed,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Low,High School,"Coding, Tech, Music",10,Very Low,0.7,Swipe Maniac,125,24,2,30,75,0.3,23,After Midnight,Ghosted,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,Associate’s,"Binge-Watching, Gaming, Tattoos",160,Addicted,0.3,Balanced,170,22,3,150,80,0.2,16,Afternoon,Blocked,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,PhD,"DIY, Motorcycling, Pets",240,Extreme User,0.5,Optimistic,145,18,6,400,5,0.45,17,Evening,Chat Ignored,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,Master’s,"Investing, Yoga, Stand-up Comedy",100,High,0.65,Optimistic,185,24,1,10,75,0.3,2,Early Morning,Mutual Match,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,Bachelor’s,"Social Activism, Art, Binge-Watching",270,Extreme User,0.4,Balanced,50,15,5,480,10,0.55,19,Late Night,One-sided Like,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,Postdoc,"Traveling, Photography, Cars",10,Very Low,0.7,Swipe Maniac,125,20,2,30,80,0.2,23,After Midnight,Date Happened,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,MBA,"Gardening, Music, Meditation",160,Addicted,0.3,Balanced,170,18,4,150,5,0.45,16,Afternoon,Relationship Formed,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,High School,"History, Gaming, DIY",240,Extreme User,0.5,Optimistic,145,20,3,400,75,0.3,17,Evening,Ghosted,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,Associate’s,"Pets, Yoga, Investing",100,High,0.65,Optimistic,185,24,6,10,10,0.55,2,Early Morning,Blocked,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,PhD,"Running, Clubbing, Fashion",270,Extreme User,0.4,Balanced,50,15,1,480,80,0.2,19,Late Night,Chat Ignored,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,Master’s,"Stand-up Comedy, Traveling, Foodie",10,Very Low,0.7,Swipe Maniac,125,26,5,30,5,0.45,23,After Midnight,Mutual Match,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,Bachelor’s,"Art, Reading, History",160,Addicted,0.3,Balanced,170,19,2,150,75,0.3,16,Afternoon,One-sided Like,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Low,Postdoc,"Coding, Tech, Music",240,Extreme User,0.5,Optimistic,145,22,4,400,10,0.55,17,Evening,Date Happened,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,MBA,"Binge-Watching, Gaming, Tattoos",100,High,0.65,Optimistic,185,15,3,10,80,0.2,2,Early Morning,Relationship Formed,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,High School,"DIY, Motorcycling, Pets",270,Extreme User,0.4,Balanced,50,28,6,480,5,0.45,19,Late Night,Ghosted,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,Associate’s,"Investing, Yoga, Stand-up Comedy",10,Very Low,0.7,Swipe Maniac,125,13,1,30,75,0.3,23,After Midnight,Blocked,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,PhD,"Social Activism, Art, Binge-Watching",160,Addicted,0.3,Balanced,170,26,5,150,10,0.55,16,Afternoon,Chat Ignored,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,Master’s,"Traveling, Photography, Cars",240,Extreme User,0.5,Optimistic,145,19,2,400,80,0.2,17,Evening,Mutual Match,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,Bachelor’s,"Gardening, Music, Meditation",100,High,0.65,Optimistic,185,22,4,10,5,0.45,2,Early Morning,One-sided Like,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,Postdoc,"History, Gaming, DIY",270,Extreme User,0.4,Balanced,50,15,3,480,75,0.3,19,Late Night,Date Happened,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,MBA,"Pets, Yoga, Investing",10,Very Low,0.7,Swipe Maniac,125,28,6,30,10,0.55,23,After Midnight,Relationship Formed,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,High School,"Running, Clubbing, Fashion",160,Addicted,0.3,Balanced,170,13,1,150,80,0.2,16,Afternoon,Ghosted,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,Associate’s,"Stand-up Comedy, Traveling, Foodie",240,Extreme User,0.5,Optimistic,145,26,5,400,5,0.45,17,Evening,Blocked,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,PhD,"Art, Reading, History",100,High,0.65,Optimistic,185,19,2,10,75,0.3,2,Early Morning,Chat Ignored,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Low,Master’s,"Coding, Tech, Music",270,Extreme User,0.4,Balanced,50,22,4,480,10,0.55,19,Late Night,Mutual Match,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,Bachelor’s,"Binge-Watching, Gaming, Tattoos",10,Very Low,0.7,Swipe Maniac,125,15,3,30,80,0.2,23,After Midnight,One-sided Like,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,Postdoc,"DIY, Motorcycling, Pets",160,Addicted,0.3,Balanced,170,28,6,150,5,0.45,16,Afternoon,Date Happened,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,MBA,"Investing, Yoga, Stand-up Comedy",240,Extreme User,0.5,Optimistic,145,13,1,400,75,0.3,17,Evening,Relationship Formed,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,High School,"Social Activism, Art, Binge-Watching",100,High,0.65,Optimistic,185,26,5,10,10,0.55,2,Early Morning,Ghosted,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,Associate’s,"Traveling, Photography, Cars",270,Extreme User,0.4,Balanced,50,19,2,480,80,0.2,19,Late Night,Blocked,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,PhD,"Gardening, Music, Meditation",10,Very Low,0.7,Swipe Maniac,125,22,4,30,5,0.45,23,After Midnight,Chat Ignored,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,Master’s,"History, Gaming, DIY",160,Addicted,0.3,Balanced,170,15,3,150,75,0.3,16,Afternoon,Mutual Match,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,Bachelor’s,"Pets, Yoga, Investing",240,Extreme User,0.5,Optimistic,145,28,6,400,10,0.55,17,Evening,One-sided Like,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,Postdoc,"Running, Clubbing, Fashion",100,High,0.65,Optimistic,185,13,1,10,80,0.2,2,Early Morning,Date Happened,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,MBA,"Stand-up Comedy, Traveling, Foodie",270,Extreme User,0.4,Balanced,50,26,5,480,5,0.45,19,Late Night,Relationship Formed,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,High School,"Art, Reading, History",10,Very Low,0.7,Swipe Maniac,125,19,2,30,75,0.3,23,After Midnight,Ghosted,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Low,Associate’s,"Coding, Tech, Music",160,Addicted,0.3,Balanced,170,22,4,150,10,0.55,16,Afternoon,Blocked,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,PhD,"Binge-Watching, Gaming, Tattoos",240,Extreme User,0.5,Optimistic,145,15,3,400,80,0.2,17,Evening,Chat Ignored,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,Master’s,"DIY, Motorcycling, Pets",100,High,0.65,Optimistic,185,28,6,10,5,0.45,2,Early Morning,Mutual Match,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,Bachelor’s,"Investing, Yoga, Stand-up Comedy",270,Extreme User,0.4,Balanced,50,13,1,480,75,0.3,19,Late Night,One-sided Like,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,Postdoc,"Social Activism, Art, Binge-Watching",10,Very Low,0.7,Swipe Maniac,125,26,5,30,10,0.55,23,After Midnight,Date Happened,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,MBA,"Traveling, Photography, Cars",160,Addicted,0.3,Balanced,170,19,2,150,80,0.2,16,Afternoon,Relationship Formed,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,High School,"Gardening, Music, Meditation",240,Extreme User,0.5,Optimistic,145,22,4,400,5,0.45,17,Evening,Ghosted,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,Associate’s,"History, Gaming, DIY",100,High,0.65,Optimistic,185,15,3,10,75,0.3,2,Early Morning,Blocked,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,PhD,"Pets, Yoga, Investing",270,Extreme User,0.4,Balanced,50,28,6,480,10,0.55,19,Late Night,Chat Ignored,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,Master’s,"Running, Clubbing, Fashion",10,Very Low,0.7,Swipe Maniac,125,26,1,30,80,0.2,23,After Midnight,Mutual Match,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,Bachelor’s,"Stand-up Comedy, Traveling, Foodie",160,Addicted,0.3,Balanced,170,19,5,150,5,0.45,16,Afternoon,One-sided Like,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,Postdoc,"Art, Reading, History",240,Extreme User,0.5,Optimistic,145,22,2,400,75,0.3,17,Evening,Date Happened,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Low,MBA,"Coding, Tech, Music",100,High,0.65,Optimistic,185,15,4,10,10,0.55,2,Early Morning,Relationship Formed,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,High School,"Binge-Watching, Gaming, Tattoos",270,Extreme User,0.4,Balanced,50,28,3,480,80,0.2,19,Late Night,Ghosted,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,Associate’s,"DIY, Motorcycling, Pets",10,Very Low,0.7,Swipe Maniac,125,13,6,30,5,0.45,23,After Midnight,Blocked,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,PhD,"Investing, Yoga, Stand-up Comedy",160,Addicted,0.3,Balanced,170,26,1,150,75,0.3,16,Afternoon,Chat Ignored,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,Master’s,"Social Activism, Art, Binge-Watching",240,Extreme User,0.5,Optimistic,145,19,5,400,10,0.55,17,Evening,Mutual Match,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,Bachelor’s,"Traveling, Photography, Cars",100,High,0.65,Optimistic,185,22,2,10,80,0.2,2,Early Morning,One-sided Like,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,Postdoc,"Gardening, Music, Meditation",270,Extreme User,0.4,Balanced,50,15,4,480,5,0.45,19,Late Night,Date Happened,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,MBA,"History, Gaming, DIY",10,Very Low,0.7,Swipe Maniac,125,28,3,30,75,0.3,23,After Midnight,Relationship Formed,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,High School,"Pets, Yoga, Investing",160,Addicted,0.3,Balanced,170,19,6,150,10,0.55,16,Afternoon,Ghosted,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,Associate’s,"Running, Clubbing, Fashion",240,Extreme User,0.5,Optimistic,145,22,1,400,80,0.2,17,Evening,Blocked,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,PhD,"Stand-up Comedy, Traveling, Foodie",100,High,0.65,Optimistic,185,15,5,10,5,0.45,2,Early Morning,Chat Ignored,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,Master’s,"Art, Reading, History",270,Extreme User,0.4,Balanced,50,28,2,480,75,0.3,19,Late Night,Mutual Match,52,185,85.5,Taurus,Muscular,Networking
+Genderfluid,Bisexual,Remote Area,Low,Bachelor’s,"Coding, Tech, Music",10,Very Low,0.7,Swipe Maniac,125,13,4,30,10,0.55,23,After Midnight,One-sided Like,30,160,57.4,Gemini,Slim,Exploring
+Female,Gay,Urban,Upper-Middle,Postdoc,"Binge-Watching, Gaming, Tattoos",160,Addicted,0.3,Balanced,170,26,3,150,80,0.2,16,Afternoon,Date Happened,45,175,75.0,Cancer,Curvy,Casual Dating
+Transgender,Asexual,Small Town,Middle,MBA,"DIY, Motorcycling, Pets",240,Extreme User,0.5,Optimistic,145,19,6,400,5,0.45,17,Evening,Relationship Formed,35,170,68.7,Leo,Muscular,Hookups
+Prefer Not to Say,Demisexual,Rural,Very High,High School,"Investing, Yoga, Stand-up Comedy",100,High,0.65,Optimistic,185,22,1,10,75,0.3,2,Early Morning,Ghosted,52,185,85.5,Virgo,Slim,Friends Only
+Male,Straight,Metro,Middle,Associate’s,"Social Activism, Art, Binge-Watching",270,Extreme User,0.4,Balanced,50,28,5,480,10,0.55,19,Late Night,Blocked,30,160,57.4,Libra,Curvy,Serious Relationship
+Non-binary,Queer,Suburban,Low,PhD,"Traveling, Photography, Cars",10,Very Low,0.7,Swipe Maniac,125,13,2,30,80,0.2,23,After Midnight,Chat Ignored,45,175,75.0,Scorpio,Muscular,Networking
+Genderfluid,Asexual,Remote Area,High,Master’s,"Gardening, Music, Meditation",160,Addicted,0.3,Balanced,170,26,4,150,5,0.45,16,Afternoon,Mutual Match,35,170,68.7,Sagittarius,Slim,Exploring
+Female,Bisexual,Urban,Middle,Bachelor’s,"History, Gaming, DIY",240,Extreme User,0.5,Optimistic,145,19,3,400,75,0.3,17,Evening,One-sided Like,52,185,85.5,Capricorn,Curvy,Casual Dating
+Transgender,Pansexual,Small Town,Upper-Middle,Postdoc,"Pets, Yoga, Investing",100,High,0.65,Optimistic,185,22,6,10,10,0.55,2,Early Morning,Date Happened,30,160,57.4,Aquarius,Muscular,Hookups
+Prefer Not to Say,Straight,Rural,Low,MBA,"Running, Clubbing, Fashion",270,Extreme User,0.4,Balanced,50,15,1,480,80,0.2,19,Late Night,Relationship Formed,45,175,75.0,Pisces,Slim,Friends Only
+Male,Demisexual,Metro,Very High,High School,"Stand-up Comedy, Traveling, Foodie",10,Very Low,0.7,Swipe Maniac,125,28,5,30,5,0.45,23,After Midnight,Ghosted,35,170,68.7,Aries,Curvy,Serious Relationship
+Non-binary,Pansexual,Suburban,Middle,Associate’s,"Art, Reading, History",160,Addicted,0.3,Balanced,170,13,2,150,75,0.3,16,Afternoon,Blocked,5
