@@ -69,7 +69,7 @@ Comunicar los resultados finalizando con storytelling visual poderoso, integrand
 
 Descripción de los Dashboards
 
-**Dashboard 1 – Perfil del amor**
+**DASHBOARD 1 – Perfil del amor**
 **Objetivo:** 
 1. Entender si existen patrones de usuario en las apps. 
 2. Qué buscan.
@@ -79,27 +79,27 @@ Descripción de los Dashboards
 **Variables clave** género, orientación sexual, edad, nivel educativo, ingresos, localización, signo del zodiaco.
 **Visualizaciones gráficas** anillos, columnas agrupadas, treemap, columnas apiladas, cintas.
 
-**Dashboard 2 – El comportamiento del “swipe”, la química y la conexión**
+**DASHBOARD 2 – El comportamiento del “swipe”, la química y la conexión**
 **Objetivo:** Analizar los patrones de interacción para saber si el uso de diferentes utilizadas de las app influye en la hora del amor. Likes, Match y Emojis en relación a horas de uso y propósito. 
 
 **Variables clave** tipos de citas, uso de emojis, “likes”, horas de uso, propósito, matches.
 **Visualizaciones gráficas** embudo, cintas, áreas, tarjetas de varias filas, barras agrupadas.
 
-**Dashboard 3 – Análisis del desplazamiento a la derecha. Match**
+**DASHBOARD 3 – Análisis del desplazamiento a la derecha. Match**
 **Objetivo** Analizar cómo de adictivo es el uso, y cómo influyen los factores en el resultado de la relación.
 
 **Variables clave** propósito/tipo de relación, cantidad de fotos de perfil, nivel de adicción, resultado de la relación.
 **Visualizaciones** barras apiladas, líneas.
 
-**Dashboard 4 – La fórmula del amor**
+**DASHBOARD 4 – La fórmula del amor**
 **Objetivo** Visualización final estilo proyecto, storytelling resumido. (Texto + gráficos)
 
-**Dashboard 5 – La hora del amor**
+**DASHBOARD 5 – La hora del amor**
 **Objetivo**
 Juego predictivo basado en signos del zodiaco.
 KPI interactivos, promedio de emojis, promedio de longitud de biografía, promedio de mensajes enviados, hora del amor estimada, promedio de match, necesarios para "tener más exito".
 
-**Dashboard 6 – La hora del amor (cierre)**
+**DASHBOARD 6 – La hora del amor (cierre)**
 Texto de cierre + visual final de síntesis.
 
 
