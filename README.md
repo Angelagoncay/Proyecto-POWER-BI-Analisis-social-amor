@@ -1,15 +1,16 @@
-# PROYECTO POWER BI # Análisis social del amor, a través de app de citas. 
-# GRUPO # Gema. Patricia Antonio y Ángela GonCay
+# PROYECTO POWER BI Análisis social del amor, a través de app de citas
 
-# Tecnología # 💻 VS Code · 🎨 POWER BI
+# GRUPO Gema. Patricia Antonio y Ángela GonCay
 
-# Metodología#
+# Tecnología 💻 VS Code · 🎨 POWER BI
+
+# Metodología
 Trabajamos con varios cdv de kaggel. Limpieza de datos y transformación en POWER BI. Duplicado de columnas, cambios de tipo de datos, formatos. 
 
-# Objetivo #
+# Objetivo
  Análisis del amor digital a través de varias apps de citas.  
 
-# Extructura # 
+# Extructura 
 **DASHBOARD 1: PERFIL DEL AMOR** 
 Objetivo: 
 1.	Entender quiénes son las personas que usan la app. 
